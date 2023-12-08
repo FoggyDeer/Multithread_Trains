@@ -1,0 +1,1957 @@
+Locomotive: #2 Name: Talgo-349  |  Max pull weight: 537.724t  |  Max train cars: 9  |  Max electric cars: 5
+
+Speed: 62.85km/h
+Home station: "Charków" ---> Destination station: "Preszów"
+
+"Charków" - 2.07km - "Pińsk" - 2.72km - "Bonn" - 0.61km - "Monachium" - 1.19km - "Lille" - 2.88km - "Kijów" - 1.86km - "Paryż" - 1.97km - "Lwów" - 0.6km - "Kraków" - 2.88km - "Saragossa" - 1.42km - "Dniepr" - 1.07km - "Gdańsk" - 0.94km - "Warszawa" - 0.87km - "Drezno" - 0.59km - "Ferrara" - 0.75km - "Baranowicze" - 0.54km - "Bolonia" - 2.88km - "Białystok" - 1.32km - "Preszów"
+Traveled between middle stations: 26.0%
+Traveled between home - destination: 1.0%
+Current segment: "Charków" - "Pińsk"
+Status: Running
+Cars: 
+
+#11 Typ: Wagon Pocztowy | Sender: PJATK | Net weight: 1.913t | Tare weight: 23.0t | Max mails count: 67748 | Price for kg: 15.43$
+Mails: 
+	1. Package. Aleksander Kowalski -> Jan Lewandowski (26.0kg)
+	2. Letter. Jan Woźniak -> Aleksander Woźniak (31 symbols)
+	3. Package. Hanna Wiśniewska -> Aleksander Woźniak (40.0kg)
+	4. Letter. Jan Nowak -> Lena Kowalska (31 symbols)
+	5. Letter. Oliwia Lewandowska -> Maria Nowak (31 symbols)
+	6. Letter. Ala Kowalska -> Ala Woźniak (31 symbols)
+	7. Package. Zuzanna Nowak -> Andrzej Lewandowski (19.0kg)
+	8. Letter. Stanisław Nowak -> Aleksander Kowalski (31 symbols)
+	9. Letter. Hanna Nowak -> Maria Wiśniewska (31 symbols)
+	10. Package. Alicja Wiśniewska -> Andrzej Nowak (46.0kg)
+	11. Package. Maria Nowak -> Zuzanna Kowalska (21.0kg)
+	12. Letter. Hanna Woźniak -> Katarzyna Woźniak (31 symbols)
+	13. Package. Filip Kowalski -> Oliwia Woźniak (29.0kg)
+	14. Package. Zuzanna Nowak -> Zofia Nowak (18.0kg)
+	15. Letter. Lena Woźniak -> Jan Kowalski (31 symbols)
+	16. Package. Stanisław Lewandowski -> Oliwia Nowak (22.0kg)
+	17. Package. Oliwia Lewandowska -> Katarzyna Nowak (51.0kg)
+	18. Package. Oliwia Wiśniewska -> Lena Wiśniewska (16.0kg)
+	19. Letter. Hanna Kowalska -> Oliwia Kowalska (31 symbols)
+	20. Package. Zofia Woźniak -> Filip Nowak (54.0kg)
+	21. Letter. Andrzej Nowak -> Alicja Nowak (31 symbols)
+	22. Package. Maria Wiśniewska -> Lena Lewandowska (48.0kg)
+	23. Package. Ala Kowalska -> Ala Woźniak (57.0kg)
+	24. Letter. Hanna Kowalska -> Zuzanna Kowalska (31 symbols)
+	25. Letter. Ala Woźniak -> Katarzyna Lewandowska (31 symbols)
+	26. Letter. Oliwia Woźniak -> Oliwia Wiśniewska (31 symbols)
+	27. Letter. Stanisław Woźniak -> Zuzanna Lewandowska (31 symbols)
+	28. Letter. Zofia Nowak -> Ala Woźniak (31 symbols)
+	29. Package. Stanisław Lewandowski -> Jan Nowak (37.0kg)
+	30. Package. Maria Wiśniewska -> Michał Wiśniewski (40.0kg)
+	31. Letter. Andrzej Nowak -> Zuzanna Wiśniewska (31 symbols)
+	32. Package. Ala Lewandowska -> Katarzyna Wiśniewska (46.0kg)
+	33. Package. Franciszek Kowalski -> Zuzanna Lewandowska (41.0kg)
+	34. Package. Lena Lewandowska -> Zuzanna Wiśniewska (41.0kg)
+	35. Package. Aleksander Woźniak -> Katarzyna Wiśniewska (60.0kg)
+	36. Letter. Oliwia Wiśniewska -> Jakub Wiśniewski (31 symbols)
+	37. Letter. Aleksander Woźniak -> Alicja Nowak (31 symbols)
+	38. Package. Filip Lewandowski -> Filip Lewandowski (10.0kg)
+	39. Package. Zofia Nowak -> Jan Wiśniewski (27.0kg)
+	40. Package. Hanna Lewandowska -> Stanisław Wiśniewski (20.0kg)
+	41. Package. Katarzyna Nowak -> Katarzyna Lewandowska (43.0kg)
+	42. Package. Ala Kowalska -> Oliwia Nowak (59.0kg)
+	43. Package. Zofia Lewandowska -> Hanna Nowak (33.0kg)
+	44. Package. Katarzyna Kowalska -> Zuzanna Woźniak (22.0kg)
+	45. Letter. Katarzyna Nowak -> Zuzanna Nowak (31 symbols)
+	46. Letter. Michał Kowalski -> Aleksander Nowak (31 symbols)
+	47. Package. Alicja Kowalska -> Zofia Lewandowska (56.0kg)
+	48. Package. Kacper Wiśniewski -> Maria Nowak (17.0kg)
+	49. Letter. Stanisław Kowalski -> Franciszek Lewandowski (31 symbols)
+	50. Letter. Stanisław Wiśniewski -> Kacper Lewandowski (31 symbols)
+	51. Package. Filip Wiśniewski -> Franciszek Woźniak (59.0kg)
+	52. Package. Filip Wiśniewski -> Aleksander Kowalski (49.0kg)
+	53. Letter. Aleksander Lewandowski -> Zuzanna Woźniak (31 symbols)
+	54. Letter. Zofia Nowak -> Jan Woźniak (31 symbols)
+	55. Letter. Zuzanna Lewandowska -> Hanna Kowalska (31 symbols)
+	56. Letter. Lena Lewandowska -> Lena Woźniak (31 symbols)
+	57. Letter. Michał Nowak -> Katarzyna Woźniak (31 symbols)
+	58. Letter. Maria Lewandowska -> Oliwia Nowak (31 symbols)
+	59. Letter. Katarzyna Lewandowska -> Aleksander Kowalski (31 symbols)
+	60. Package. Jan Kowalski -> Stanisław Lewandowski (21.0kg)
+	61. Letter. Aleksander Lewandowski -> Zuzanna Nowak (31 symbols)
+	62. Letter. Jakub Nowak -> Oliwia Woźniak (31 symbols)
+	63. Package. Kacper Wiśniewski -> Stanisław Kowalski (14.0kg)
+	64. Package. Zofia Lewandowska -> Jakub Lewandowski (55.0kg)
+	65. Package. Ala Nowak -> Kacper Nowak (32.0kg)
+	66. Package. Lena Woźniak -> Lena Nowak (20.0kg)
+	67. Letter. Ala Wiśniewska -> Zofia Lewandowska (31 symbols)
+	68. Letter. Jan Wiśniewski -> Kacper Lewandowski (31 symbols)
+	69. Letter. Lena Nowak -> Jan Wiśniewski (31 symbols)
+	70. Package. Jan Kowalski -> Kacper Nowak (25.0kg)
+	71. Letter. Maria Wiśniewska -> Franciszek Wiśniewski (31 symbols)
+	72. Letter. Jan Woźniak -> Jakub Nowak (31 symbols)
+	73. Package. Michał Wiśniewski -> Lena Kowalska (55.0kg)
+	74. Letter. Michał Wiśniewski -> Ala Nowak (31 symbols)
+	75. Package. Hanna Kowalska -> Andrzej Kowalski (36.0kg)
+	76. Letter. Jan Wiśniewski -> Zuzanna Kowalska (31 symbols)
+	77. Letter. Oliwia Wiśniewska -> Franciszek Woźniak (31 symbols)
+	78. Letter. Alicja Nowak -> Michał Nowak (31 symbols)
+	79. Letter. Michał Nowak -> Kacper Nowak (31 symbols)
+	80. Letter. Filip Wiśniewski -> Jakub Woźniak (31 symbols)
+	81. Package. Zuzanna Nowak -> Zofia Lewandowska (59.0kg)
+	82. Package. Michał Nowak -> Kacper Woźniak (14.0kg)
+	83. Package. Jakub Kowalski -> Filip Wiśniewski (58.0kg)
+	84. Letter. Franciszek Kowalski -> Zofia Lewandowska (31 symbols)
+	85. Package. Katarzyna Kowalska -> Jan Wiśniewski (57.0kg)
+	86. Letter. Stanisław Kowalski -> Kacper Woźniak (31 symbols)
+	87. Package. Jakub Lewandowski -> Franciszek Nowak (29.0kg)
+	88. Letter. Maria Nowak -> Hanna Lewandowska (31 symbols)
+	89. Letter. Jan Woźniak -> Stanisław Woźniak (31 symbols)
+	90. Letter. Aleksander Nowak -> Maria Woźniak (31 symbols)
+	91. Package. Andrzej Nowak -> Katarzyna Kowalska (60.0kg)
+	92. Package. Jan Wiśniewski -> Maria Wiśniewska (42.0kg)
+	93. Package. Lena Kowalska -> Ala Woźniak (50.0kg)
+	94. Package. Maria Kowalska -> Zofia Lewandowska (37.0kg)
+	95. Letter. Ala Woźniak -> Kacper Wiśniewski (31 symbols)
+	96. Package. Kacper Kowalski -> Ala Woźniak (38.0kg)
+	97. Package. Maria Nowak -> Jan Wiśniewski (43.0kg)
+	98. Package. Jakub Woźniak -> Stanisław Lewandowski (22.0kg)
+	99. Letter. Andrzej Lewandowski -> Jan Wiśniewski (31 symbols)
+	100. Package. Zofia Nowak -> Jan Lewandowski (39.0kg)
+
+#15 Typ: Wagon Na Ciekłe Materiały Toksyczne | Sender: PJATK | Net weight: 6.936t | Tare weight: 21.0t | Max volume: 73.0m³ | Max toxicity level: 2
+Cargo:	Liquid: benzene 100% (102.0l), toxicity level: 6
+
+#18 Typ: Wagon Na Ciekłe Materiały Toksyczne | Sender: PJATK | Net weight: 7.085t | Tare weight: 24.0t | Max volume: 93.0m³ | Max toxicity level: 4
+Cargo:	Liquid: pesticides 100% (109.0l), toxicity level: 4
+
+#13 Typ: Wagon Bagażowo-Pocztowy | Sender: PJATK | Net weight: 5.41t | Tare weight: 30.0t | Max mails count: 76168 | Max luggage weight: 44.0 | Price for kg: 5.67$
+Mails: 
+	1. Type: Package, weight: 13.0kg.
+	Sender: Jakub Lewandowski -> Receiver: Jakub Wiśniewski.
+	*****g*a**h****r**h*******sd**?
+
+	2. Type: Package, weight: 27.0kg.
+	Sender: Hanna Nowak -> Receiver: Katarzyna Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	3. Type: Letter.
+	Sender: Zuzanna Nowak -> Receiver: Zofia Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	4. Type: Letter.
+	Sender: Katarzyna Kowalska -> Receiver: Ala Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	5. Type: Package, weight: 24.0kg.
+	Sender: Aleksander Lewandowski -> Receiver: Jakub Wiśniewski.
+	*****g*a**h****r**h*******sd**?
+
+	6. Type: Package, weight: 13.0kg.
+	Sender: Michał Nowak -> Receiver: Jan Wiśniewski.
+	*****g*a**h****r**h*******sd**?
+
+	7. Type: Package, weight: 27.0kg.
+	Sender: Zuzanna Wiśniewska -> Receiver: Zofia Kowalska.
+	*****g*a**h****r**h*******sd**?
+
+	8. Type: Letter.
+	Sender: Andrzej Kowalski -> Receiver: Zofia Lewandowska.
+	*****g*a**h****r**h*******sd**?
+
+	9. Type: Letter.
+	Sender: Jan Lewandowski -> Receiver: Ala Wiśniewska.
+	*****g*a**h****r**h*******sd**?
+
+	10. Type: Package, weight: 34.0kg.
+	Sender: Zuzanna Kowalska -> Receiver: Filip Wiśniewski.
+	*****g*a**h****r**h*******sd**?
+
+	11. Type: Package, weight: 44.0kg.
+	Sender: Zofia Kowalska -> Receiver: Andrzej Wiśniewski.
+	*****g*a**h****r**h*******sd**?
+
+	12. Type: Package, weight: 46.0kg.
+	Sender: Aleksander Woźniak -> Receiver: Zuzanna Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	13. Type: Package, weight: 49.0kg.
+	Sender: Hanna Nowak -> Receiver: Lena Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	14. Type: Letter.
+	Sender: Zuzanna Woźniak -> Receiver: Stanisław Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	15. Type: Letter.
+	Sender: Filip Kowalski -> Receiver: Oliwia Lewandowska.
+	*****g*a**h****r**h*******sd**?
+
+	16. Type: Package, weight: 33.0kg.
+	Sender: Franciszek Nowak -> Receiver: Maria Wiśniewska.
+	*****g*a**h****r**h*******sd**?
+
+	17. Type: Package, weight: 30.0kg.
+	Sender: Oliwia Nowak -> Receiver: Lena Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	18. Type: Package, weight: 46.0kg.
+	Sender: Aleksander Wiśniewski -> Receiver: Zuzanna Wiśniewska.
+	*****g*a**h****r**h*******sd**?
+
+	19. Type: Package, weight: 50.0kg.
+	Sender: Kacper Wiśniewski -> Receiver: Zofia Lewandowska.
+	*****g*a**h****r**h*******sd**?
+
+	20. Type: Package, weight: 46.0kg.
+	Sender: Michał Wiśniewski -> Receiver: Jakub Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	21. Type: Letter.
+	Sender: Kacper Kowalski -> Receiver: Zuzanna Lewandowska.
+	*****g*a**h****r**h*******sd**?
+
+	22. Type: Package, weight: 60.0kg.
+	Sender: Stanisław Lewandowski -> Receiver: Filip Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	23. Type: Package, weight: 23.0kg.
+	Sender: Kacper Kowalski -> Receiver: Lena Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	24. Type: Package, weight: 16.0kg.
+	Sender: Lena Nowak -> Receiver: Zuzanna Kowalska.
+	*****g*a**h****r**h*******sd**?
+
+	25. Type: Package, weight: 60.0kg.
+	Sender: Andrzej Nowak -> Receiver: Andrzej Wiśniewski.
+	*****g*a**h****r**h*******sd**?
+
+	26. Type: Package, weight: 40.0kg.
+	Sender: Michał Nowak -> Receiver: Franciszek Wiśniewski.
+	*****g*a**h****r**h*******sd**?
+
+	27. Type: Package, weight: 57.0kg.
+	Sender: Aleksander Kowalski -> Receiver: Stanisław Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	28. Type: Package, weight: 50.0kg.
+	Sender: Zofia Nowak -> Receiver: Kacper Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	29. Type: Package, weight: 19.0kg.
+	Sender: Stanisław Wiśniewski -> Receiver: Jakub Lewandowski.
+	*****g*a**h****r**h*******sd**?
+
+	30. Type: Package, weight: 30.0kg.
+	Sender: Hanna Lewandowska -> Receiver: Alicja Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	31. Type: Letter.
+	Sender: Jakub Woźniak -> Receiver: Andrzej Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	32. Type: Package, weight: 25.0kg.
+	Sender: Alicja Woźniak -> Receiver: Filip Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	33. Type: Package, weight: 27.0kg.
+	Sender: Filip Wiśniewski -> Receiver: Katarzyna Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	34. Type: Letter.
+	Sender: Filip Lewandowski -> Receiver: Kacper Lewandowski.
+	*****g*a**h****r**h*******sd**?
+
+	35. Type: Letter.
+	Sender: Michał Lewandowski -> Receiver: Alicja Lewandowska.
+	*****g*a**h****r**h*******sd**?
+
+	36. Type: Letter.
+	Sender: Ala Nowak -> Receiver: Jan Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	37. Type: Package, weight: 47.0kg.
+	Sender: Hanna Lewandowska -> Receiver: Ala Wiśniewska.
+	*****g*a**h****r**h*******sd**?
+
+	38. Type: Package, weight: 11.0kg.
+	Sender: Hanna Nowak -> Receiver: Lena Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	39. Type: Package, weight: 60.0kg.
+	Sender: Lena Nowak -> Receiver: Alicja Lewandowska.
+	*****g*a**h****r**h*******sd**?
+
+	40. Type: Letter.
+	Sender: Maria Woźniak -> Receiver: Maria Lewandowska.
+	*****g*a**h****r**h*******sd**?
+
+	41. Type: Package, weight: 50.0kg.
+	Sender: Filip Kowalski -> Receiver: Michał Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	42. Type: Package, weight: 54.0kg.
+	Sender: Jan Kowalski -> Receiver: Hanna Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	43. Type: Package, weight: 41.0kg.
+	Sender: Franciszek Nowak -> Receiver: Ala Wiśniewska.
+	*****g*a**h****r**h*******sd**?
+
+	44. Type: Package, weight: 51.0kg.
+	Sender: Jan Nowak -> Receiver: Michał Lewandowski.
+	*****g*a**h****r**h*******sd**?
+
+	45. Type: Package, weight: 29.0kg.
+	Sender: Kacper Wiśniewski -> Receiver: Oliwia Lewandowska.
+	*****g*a**h****r**h*******sd**?
+
+	46. Type: Package, weight: 40.0kg.
+	Sender: Michał Lewandowski -> Receiver: Zuzanna Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	47. Type: Package, weight: 18.0kg.
+	Sender: Franciszek Kowalski -> Receiver: Hanna Lewandowska.
+	*****g*a**h****r**h*******sd**?
+
+	48. Type: Package, weight: 23.0kg.
+	Sender: Ala Woźniak -> Receiver: Filip Kowalski.
+	*****g*a**h****r**h*******sd**?
+
+	49. Type: Letter.
+	Sender: Andrzej Kowalski -> Receiver: Aleksander Kowalski.
+	*****g*a**h****r**h*******sd**?
+
+	50. Type: Letter.
+	Sender: Filip Lewandowski -> Receiver: Zuzanna Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	51. Type: Package, weight: 21.0kg.
+	Sender: Zofia Wiśniewska -> Receiver: Andrzej Lewandowski.
+	*****g*a**h****r**h*******sd**?
+
+	52. Type: Package, weight: 52.0kg.
+	Sender: Hanna Nowak -> Receiver: Jakub Wiśniewski.
+	*****g*a**h****r**h*******sd**?
+
+	53. Type: Letter.
+	Sender: Ala Nowak -> Receiver: Andrzej Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	54. Type: Package, weight: 22.0kg.
+	Sender: Katarzyna Wiśniewska -> Receiver: Andrzej Kowalski.
+	*****g*a**h****r**h*******sd**?
+
+	55. Type: Letter.
+	Sender: Zuzanna Woźniak -> Receiver: Andrzej Wiśniewski.
+	*****g*a**h****r**h*******sd**?
+
+	56. Type: Package, weight: 31.0kg.
+	Sender: Stanisław Wiśniewski -> Receiver: Oliwia Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	57. Type: Package, weight: 39.0kg.
+	Sender: Oliwia Kowalska -> Receiver: Michał Lewandowski.
+	*****g*a**h****r**h*******sd**?
+
+	58. Type: Package, weight: 16.0kg.
+	Sender: Stanisław Wiśniewski -> Receiver: Oliwia Lewandowska.
+	*****g*a**h****r**h*******sd**?
+
+	59. Type: Letter.
+	Sender: Aleksander Lewandowski -> Receiver: Maria Wiśniewska.
+	*****g*a**h****r**h*******sd**?
+
+	60. Type: Package, weight: 47.0kg.
+	Sender: Alicja Lewandowska -> Receiver: Jan Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	61. Type: Letter.
+	Sender: Oliwia Lewandowska -> Receiver: Andrzej Lewandowski.
+	*****g*a**h****r**h*******sd**?
+
+	62. Type: Package, weight: 24.0kg.
+	Sender: Stanisław Woźniak -> Receiver: Maria Lewandowska.
+	*****g*a**h****r**h*******sd**?
+
+	63. Type: Package, weight: 21.0kg.
+	Sender: Franciszek Nowak -> Receiver: Jakub Wiśniewski.
+	*****g*a**h****r**h*******sd**?
+
+	64. Type: Letter.
+	Sender: Filip Woźniak -> Receiver: Filip Lewandowski.
+	*****g*a**h****r**h*******sd**?
+
+	65. Type: Letter.
+	Sender: Aleksander Wiśniewski -> Receiver: Aleksander Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	66. Type: Letter.
+	Sender: Alicja Wiśniewska -> Receiver: Kacper Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	67. Type: Letter.
+	Sender: Lena Nowak -> Receiver: Alicja Kowalska.
+	*****g*a**h****r**h*******sd**?
+
+	68. Type: Letter.
+	Sender: Alicja Lewandowska -> Receiver: Oliwia Wiśniewska.
+	*****g*a**h****r**h*******sd**?
+
+	69. Type: Letter.
+	Sender: Stanisław Kowalski -> Receiver: Ala Kowalska.
+	*****g*a**h****r**h*******sd**?
+
+	70. Type: Letter.
+	Sender: Alicja Nowak -> Receiver: Zuzanna Wiśniewska.
+	*****g*a**h****r**h*******sd**?
+
+	71. Type: Package, weight: 33.0kg.
+	Sender: Jakub Lewandowski -> Receiver: Aleksander Lewandowski.
+	*****g*a**h****r**h*******sd**?
+
+	72. Type: Letter.
+	Sender: Stanisław Kowalski -> Receiver: Andrzej Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	73. Type: Package, weight: 49.0kg.
+	Sender: Zuzanna Kowalska -> Receiver: Aleksander Lewandowski.
+	*****g*a**h****r**h*******sd**?
+
+	74. Type: Letter.
+	Sender: Jan Lewandowski -> Receiver: Michał Lewandowski.
+	*****g*a**h****r**h*******sd**?
+
+	75. Type: Letter.
+	Sender: Franciszek Lewandowski -> Receiver: Jakub Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	76. Type: Package, weight: 53.0kg.
+	Sender: Filip Nowak -> Receiver: Filip Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	77. Type: Package, weight: 35.0kg.
+	Sender: Aleksander Nowak -> Receiver: Lena Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	78. Type: Package, weight: 14.0kg.
+	Sender: Franciszek Nowak -> Receiver: Jakub Wiśniewski.
+	*****g*a**h****r**h*******sd**?
+
+	79. Type: Letter.
+	Sender: Jakub Wiśniewski -> Receiver: Andrzej Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	80. Type: Letter.
+	Sender: Franciszek Woźniak -> Receiver: Kacper Wiśniewski.
+	*****g*a**h****r**h*******sd**?
+
+	81. Type: Letter.
+	Sender: Oliwia Woźniak -> Receiver: Oliwia Kowalska.
+	*****g*a**h****r**h*******sd**?
+
+	82. Type: Package, weight: 42.0kg.
+	Sender: Aleksander Woźniak -> Receiver: Andrzej Lewandowski.
+	*****g*a**h****r**h*******sd**?
+
+	83. Type: Letter.
+	Sender: Stanisław Lewandowski -> Receiver: Zuzanna Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	84. Type: Letter.
+	Sender: Jan Wiśniewski -> Receiver: Franciszek Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	85. Type: Letter.
+	Sender: Alicja Nowak -> Receiver: Kacper Wiśniewski.
+	*****g*a**h****r**h*******sd**?
+
+	86. Type: Package, weight: 20.0kg.
+	Sender: Filip Kowalski -> Receiver: Zuzanna Kowalska.
+	*****g*a**h****r**h*******sd**?
+
+	87. Type: Letter.
+	Sender: Oliwia Woźniak -> Receiver: Kacper Wiśniewski.
+	*****g*a**h****r**h*******sd**?
+
+	88. Type: Package, weight: 47.0kg.
+	Sender: Ala Kowalska -> Receiver: Andrzej Lewandowski.
+	*****g*a**h****r**h*******sd**?
+
+	89. Type: Package, weight: 41.0kg.
+	Sender: Filip Lewandowski -> Receiver: Stanisław Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	90. Type: Package, weight: 54.0kg.
+	Sender: Jan Kowalski -> Receiver: Franciszek Kowalski.
+	*****g*a**h****r**h*******sd**?
+
+	91. Type: Letter.
+	Sender: Kacper Kowalski -> Receiver: Michał Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	92. Type: Letter.
+	Sender: Franciszek Lewandowski -> Receiver: Jan Wiśniewski.
+	*****g*a**h****r**h*******sd**?
+
+	93. Type: Package, weight: 39.0kg.
+	Sender: Zofia Nowak -> Receiver: Kacper Kowalski.
+	*****g*a**h****r**h*******sd**?
+
+	94. Type: Package, weight: 14.0kg.
+	Sender: Jan Lewandowski -> Receiver: Zofia Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	95. Type: Letter.
+	Sender: Aleksander Kowalski -> Receiver: Alicja Lewandowska.
+	*****g*a**h****r**h*******sd**?
+
+	96. Type: Package, weight: 22.0kg.
+	Sender: Kacper Lewandowski -> Receiver: Franciszek Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	97. Type: Letter.
+	Sender: Zuzanna Woźniak -> Receiver: Lena Lewandowska.
+	*****g*a**h****r**h*******sd**?
+
+	98. Type: Package, weight: 58.0kg.
+	Sender: Jakub Kowalski -> Receiver: Katarzyna Kowalska.
+	*****g*a**h****r**h*******sd**?
+
+	99. Type: Letter.
+	Sender: Zuzanna Nowak -> Receiver: Ala Wiśniewska.
+	*****g*a**h****r**h*******sd**?
+
+	100. Type: Letter.
+	Sender: Andrzej Kowalski -> Receiver: Stanisław Kowalski.
+	*****g*a**h****r**h*******sd**?
+
+Luggage: 
+	1. Box. Owner: Katarzyna Nowak (31.0kg) 175.77$
+	2. Bag. Owner: Jakub Woźniak (22.0kg) 124.74$
+	3. Bag. Owner: Stanisław Woźniak (21.0kg) 119.07$
+	4. Bag. Owner: Zofia Lewandowska (56.0kg) 476.28$
+	5. Suitcase. Owner: Andrzej Kowalski (19.0kg) 107.73$
+	6. Box. Owner: Jakub Kowalski (60.0kg) 510.299$
+	7. Suitcase. Owner: Michał Woźniak (43.0kg) 243.81$
+	8. Bag. Owner: Lena Kowalska (27.0kg) 153.09$
+	9. Bag. Owner: Jakub Lewandowski (45.0kg) 382.725$
+	10. Suitcase. Owner: Maria Lewandowska (39.0kg) 221.13$
+	11. Suitcase. Owner: Jan Wiśniewski (42.0kg) 238.14$
+	12. Box. Owner: Stanisław Lewandowski (17.0kg) 96.39$
+	13. Suitcase. Owner: Michał Lewandowski (11.0kg) 62.37$
+	14. Box. Owner: Ala Kowalska (40.0kg) 226.8$
+	15. Suitcase. Owner: Franciszek Lewandowski (12.0kg) 68.039$
+	16. Box. Owner: Maria Lewandowska (36.0kg) 204.12$
+	17. Suitcase. Owner: Hanna Nowak (45.0kg) 382.725$
+	18. Box. Owner: Jakub Nowak (40.0kg) 226.8$
+	19. Bag. Owner: Katarzyna Wiśniewska (20.0kg) 113.4$
+	20. Bag. Owner: Jakub Kowalski (54.0kg) 459.27$
+	21. Bag. Owner: Jan Nowak (12.0kg) 68.039$
+	22. Suitcase. Owner: Maria Woźniak (40.0kg) 226.8$
+	23. Bag. Owner: Katarzyna Wiśniewska (21.0kg) 119.07$
+	24. Bag. Owner: Zofia Wiśniewska (33.0kg) 187.109$
+	25. Suitcase. Owner: Oliwia Lewandowska (10.0kg) 56.7$
+	26. Suitcase. Owner: Michał Lewandowski (11.0kg) 62.37$
+	27. Suitcase. Owner: Alicja Kowalska (33.0kg) 187.109$
+	28. Bag. Owner: Stanisław Woźniak (25.0kg) 141.75$
+	29. Box. Owner: Ala Kowalska (51.0kg) 433.755$
+	30. Bag. Owner: Michał Kowalski (11.0kg) 62.37$
+	31. Bag. Owner: Aleksander Wiśniewski (23.0kg) 130.41$
+	32. Box. Owner: Filip Wiśniewski (22.0kg) 124.74$
+	33. Bag. Owner: Hanna Kowalska (38.0kg) 215.46$
+	34. Bag. Owner: Alicja Nowak (10.0kg) 56.7$
+	35. Box. Owner: Stanisław Lewandowski (16.0kg) 90.72$
+	36. Bag. Owner: Hanna Lewandowska (59.0kg) 501.794$
+	37. Bag. Owner: Katarzyna Nowak (41.0kg) 232.47$
+	38. Bag. Owner: Michał Nowak (44.0kg) 249.48$
+	39. Suitcase. Owner: Ala Kowalska (18.0kg) 102.06$
+	40. Suitcase. Owner: Jan Nowak (33.0kg) 187.109$
+	41. Suitcase. Owner: Zofia Woźniak (53.0kg) 450.765$
+	42. Bag. Owner: Zuzanna Lewandowska (50.0kg) 425.25$
+	43. Bag. Owner: Oliwia Kowalska (45.0kg) 382.725$
+	44. Suitcase. Owner: Ala Kowalska (10.0kg) 56.7$
+	45. Bag. Owner: Franciszek Wiśniewski (19.0kg) 107.73$
+	46. Bag. Owner: Ala Lewandowska (31.0kg) 175.77$
+	47. Suitcase. Owner: Hanna Lewandowska (41.0kg) 232.47$
+	48. Bag. Owner: Alicja Nowak (10.0kg) 56.7$
+	49. Bag. Owner: Michał Woźniak (57.0kg) 484.784$
+	50. Suitcase. Owner: Michał Kowalski (20.0kg) 113.4$
+	51. Bag. Owner: Franciszek Woźniak (32.0kg) 181.44$
+	52. Box. Owner: Jakub Kowalski (47.0kg) 399.735$
+	53. Suitcase. Owner: Hanna Wiśniewska (51.0kg) 433.755$
+	54. Bag. Owner: Alicja Lewandowska (36.0kg) 204.12$
+	55. Bag. Owner: Lena Woźniak (37.0kg) 209.79$
+	56. Bag. Owner: Jan Wiśniewski (33.0kg) 187.109$
+	57. Box. Owner: Aleksander Kowalski (45.0kg) 382.725$
+	58. Box. Owner: Ala Woźniak (57.0kg) 484.784$
+	59. Bag. Owner: Zofia Lewandowska (17.0kg) 96.39$
+	60. Suitcase. Owner: Hanna Lewandowska (24.0kg) 136.079$
+	61. Bag. Owner: Andrzej Wiśniewski (47.0kg) 399.735$
+	62. Suitcase. Owner: Franciszek Woźniak (28.0kg) 158.76$
+	63. Bag. Owner: Jan Wiśniewski (38.0kg) 215.46$
+	64. Box. Owner: Kacper Kowalski (23.0kg) 130.41$
+	65. Bag. Owner: Lena Lewandowska (29.0kg) 164.43$
+	66. Suitcase. Owner: Zofia Lewandowska (27.0kg) 153.09$
+	67. Suitcase. Owner: Katarzyna Kowalska (24.0kg) 136.079$
+	68. Bag. Owner: Michał Nowak (38.0kg) 215.46$
+	69. Bag. Owner: Kacper Wiśniewski (55.0kg) 467.775$
+	70. Suitcase. Owner: Michał Wiśniewski (24.0kg) 136.079$
+	71. Suitcase. Owner: Filip Lewandowski (16.0kg) 90.72$
+	72. Box. Owner: Oliwia Kowalska (33.0kg) 187.109$
+	73. Box. Owner: Hanna Wiśniewska (39.0kg) 221.13$
+	74. Box. Owner: Filip Kowalski (37.0kg) 209.79$
+	75. Bag. Owner: Aleksander Wiśniewski (56.0kg) 476.28$
+	76. Suitcase. Owner: Lena Woźniak (38.0kg) 215.46$
+	77. Suitcase. Owner: Oliwia Kowalska (17.0kg) 96.39$
+	78. Bag. Owner: Alicja Lewandowska (28.0kg) 158.76$
+	79. Box. Owner: Alicja Wiśniewska (54.0kg) 459.27$
+	80. Bag. Owner: Kacper Lewandowski (16.0kg) 90.72$
+	81. Bag. Owner: Hanna Kowalska (47.0kg) 399.735$
+	82. Bag. Owner: Zofia Lewandowska (42.0kg) 238.14$
+	83. Suitcase. Owner: Alicja Lewandowska (44.0kg) 249.48$
+	84. Suitcase. Owner: Lena Wiśniewska (14.0kg) 79.38$
+	85. Box. Owner: Zofia Nowak (32.0kg) 181.44$
+	86. Bag. Owner: Stanisław Lewandowski (27.0kg) 153.09$
+	87. Suitcase. Owner: Jan Kowalski (38.0kg) 215.46$
+	88. Bag. Owner: Katarzyna Wiśniewska (33.0kg) 187.109$
+	89. Box. Owner: Zofia Wiśniewska (24.0kg) 136.079$
+	90. Bag. Owner: Katarzyna Nowak (49.0kg) 416.745$
+	91. Bag. Owner: Jan Nowak (41.0kg) 232.47$
+	92. Bag. Owner: Filip Nowak (17.0kg) 96.39$
+	93. Bag. Owner: Ala Wiśniewska (50.0kg) 425.25$
+	94. Suitcase. Owner: Jakub Lewandowski (16.0kg) 90.72$
+	95. Suitcase. Owner: Ala Nowak (38.0kg) 215.46$
+	96. Suitcase. Owner: Zofia Wiśniewska (17.0kg) 96.39$
+	97. Bag. Owner: Hanna Nowak (50.0kg) 425.25$
+	98. Bag. Owner: Aleksander Woźniak (12.0kg) 68.039$
+	99. Bag. Owner: Franciszek Lewandowski (46.0kg) 391.23$
+	100. Box. Owner: Zuzanna Lewandowska (53.0kg) 450.765$
+
+#16 Typ: Wagon Na Materiały Gazowe | Sender: PJATK | Net weight: 2.974t | Tare weight: 36.0t | Max containers: 45
+Gas bottles: 
+	1. Gas: krypton 100% (79.0kg)
+	2. Gas: propane 100% (42.0kg)
+	3. Gas: butane 100% (48.0kg)
+	4. Gas: ethylene 100% (64.0kg)
+	5. Gas: butane 100% (99.0kg)
+	6. Gas: ozone 100% (60.0kg)
+	7. Gas: nitrogen 100% (41.0kg)
+	8. Gas: ozone 100% (41.0kg)
+	9. Gas: propane 100% (42.0kg)
+	10. Gas: ozone 100% (70.0kg)
+	11. Gas: ozone 100% (51.0kg)
+	12. Gas: butane 100% (41.0kg)
+	13. Gas: ozone 100% (55.0kg)
+	14. Gas: krypton 100% (83.0kg)
+	15. Gas: krypton 100% (88.0kg)
+	16. Gas: propane 100% (64.0kg)
+	17. Gas: ozone 100% (55.0kg)
+	18. Gas: nitrogen 100% (85.0kg)
+	19. Gas: butane 100% (88.0kg)
+	20. Gas: nitrogen 100% (96.0kg)
+	21. Gas: ethylene 100% (67.0kg)
+	22. Gas: nitrogen 100% (66.0kg)
+	23. Gas: propane 100% (68.0kg)
+	24. Gas: nitrogen 100% (44.0kg)
+	25. Gas: butane 100% (53.0kg)
+	26. Gas: ozone 100% (74.0kg)
+	27. Gas: acetylene 100% (55.0kg)
+	28. Gas: propane 100% (51.0kg)
+	29. Gas: krypton 100% (42.0kg)
+	30. Gas: ozone 100% (53.0kg)
+	31. Gas: nitrogen 100% (61.0kg)
+	32. Gas: nitrogen 100% (61.0kg)
+	33. Gas: ozone 100% (46.0kg)
+	34. Gas: propane 100% (87.0kg)
+	35. Gas: krypton 100% (83.0kg)
+	36. Gas: butane 100% (90.0kg)
+	37. Gas: propane 100% (69.0kg)
+	38. Gas: propane 100% (99.0kg)
+	39. Gas: propane 100% (65.0kg)
+	40. Gas: ozone 100% (45.0kg)
+	41. Gas: nitrogen 100% (76.0kg)
+	42. Gas: propane 100% (74.0kg)
+	43. Gas: nitrogen 100% (89.0kg)
+	44. Gas: ozone 100% (80.0kg)
+	45. Gas: propane 100% (84.0kg)
+
+#10 Typ: Wagon Pocztowy | Sender: PJATK | Net weight: 1.798t | Tare weight: 40.0t | Max mails count: 97968 | Price for kg: 14.95$
+Mails: 
+	1. Letter. Franciszek Woźniak -> Kacper Kowalski (31 symbols)
+	2. Letter. Jakub Nowak -> Aleksander Kowalski (31 symbols)
+	3. Package. Hanna Kowalska -> Aleksander Wiśniewski (30.0kg)
+	4. Package. Oliwia Nowak -> Michał Nowak (18.0kg)
+	5. Letter. Maria Lewandowska -> Michał Woźniak (31 symbols)
+	6. Letter. Andrzej Wiśniewski -> Lena Wiśniewska (31 symbols)
+	7. Letter. Lena Nowak -> Franciszek Woźniak (31 symbols)
+	8. Package. Lena Kowalska -> Kacper Kowalski (17.0kg)
+	9. Letter. Franciszek Nowak -> Zofia Woźniak (31 symbols)
+	10. Package. Oliwia Nowak -> Filip Woźniak (19.0kg)
+	11. Package. Stanisław Kowalski -> Zofia Nowak (46.0kg)
+	12. Letter. Jan Wiśniewski -> Alicja Kowalska (31 symbols)
+	13. Letter. Lena Wiśniewska -> Franciszek Woźniak (31 symbols)
+	14. Package. Stanisław Wiśniewski -> Ala Lewandowska (48.0kg)
+	15. Package. Franciszek Wiśniewski -> Zuzanna Nowak (58.0kg)
+	16. Letter. Lena Kowalska -> Kacper Woźniak (31 symbols)
+	17. Letter. Hanna Nowak -> Alicja Wiśniewska (31 symbols)
+	18. Package. Andrzej Lewandowski -> Filip Kowalski (14.0kg)
+	19. Letter. Oliwia Lewandowska -> Aleksander Nowak (31 symbols)
+	20. Package. Lena Wiśniewska -> Maria Kowalska (23.0kg)
+	21. Package. Franciszek Wiśniewski -> Stanisław Lewandowski (11.0kg)
+	22. Letter. Maria Kowalska -> Alicja Woźniak (31 symbols)
+	23. Package. Aleksander Woźniak -> Zofia Woźniak (25.0kg)
+	24. Package. Filip Wiśniewski -> Franciszek Nowak (39.0kg)
+	25. Package. Katarzyna Nowak -> Ala Wiśniewska (47.0kg)
+	26. Package. Andrzej Woźniak -> Alicja Kowalska (23.0kg)
+	27. Letter. Ala Nowak -> Maria Lewandowska (31 symbols)
+	28. Letter. Lena Kowalska -> Franciszek Kowalski (31 symbols)
+	29. Package. Ala Woźniak -> Stanisław Nowak (54.0kg)
+	30. Package. Kacper Woźniak -> Ala Wiśniewska (46.0kg)
+	31. Package. Ala Nowak -> Alicja Wiśniewska (53.0kg)
+	32. Package. Jakub Nowak -> Katarzyna Lewandowska (27.0kg)
+	33. Letter. Katarzyna Kowalska -> Stanisław Wiśniewski (31 symbols)
+	34. Package. Lena Lewandowska -> Franciszek Wiśniewski (55.0kg)
+	35. Package. Zuzanna Wiśniewska -> Katarzyna Wiśniewska (35.0kg)
+	36. Letter. Franciszek Kowalski -> Andrzej Woźniak (31 symbols)
+	37. Letter. Franciszek Nowak -> Jakub Wiśniewski (31 symbols)
+	38. Package. Oliwia Wiśniewska -> Katarzyna Woźniak (35.0kg)
+	39. Package. Andrzej Woźniak -> Oliwia Wiśniewska (17.0kg)
+	40. Package. Aleksander Kowalski -> Filip Nowak (45.0kg)
+	41. Letter. Franciszek Woźniak -> Oliwia Kowalska (31 symbols)
+	42. Letter. Lena Wiśniewska -> Hanna Woźniak (31 symbols)
+	43. Letter. Katarzyna Wiśniewska -> Jakub Lewandowski (31 symbols)
+	44. Package. Oliwia Lewandowska -> Hanna Woźniak (49.0kg)
+	45. Package. Hanna Kowalska -> Oliwia Nowak (11.0kg)
+	46. Letter. Andrzej Wiśniewski -> Andrzej Nowak (31 symbols)
+	47. Package. Maria Woźniak -> Jan Lewandowski (56.0kg)
+	48. Package. Jakub Wiśniewski -> Zofia Wiśniewska (31.0kg)
+	49. Package. Zuzanna Woźniak -> Maria Wiśniewska (12.0kg)
+	50. Package. Jakub Woźniak -> Maria Nowak (16.0kg)
+	51. Package. Hanna Nowak -> Jan Wiśniewski (37.0kg)
+	52. Package. Franciszek Woźniak -> Jakub Woźniak (53.0kg)
+	53. Letter. Maria Nowak -> Lena Wiśniewska (31 symbols)
+	54. Letter. Franciszek Kowalski -> Aleksander Nowak (31 symbols)
+	55. Package. Aleksander Woźniak -> Stanisław Kowalski (53.0kg)
+	56. Letter. Andrzej Kowalski -> Jan Nowak (31 symbols)
+	57. Package. Aleksander Kowalski -> Lena Woźniak (32.0kg)
+	58. Letter. Zofia Lewandowska -> Aleksander Lewandowski (31 symbols)
+	59. Letter. Zofia Lewandowska -> Andrzej Woźniak (31 symbols)
+	60. Package. Filip Lewandowski -> Alicja Wiśniewska (18.0kg)
+	61. Letter. Andrzej Kowalski -> Michał Wiśniewski (31 symbols)
+	62. Letter. Ala Kowalska -> Zuzanna Wiśniewska (31 symbols)
+	63. Letter. Stanisław Nowak -> Filip Nowak (31 symbols)
+	64. Package. Lena Kowalska -> Oliwia Wiśniewska (60.0kg)
+	65. Letter. Zuzanna Nowak -> Zofia Nowak (31 symbols)
+	66. Package. Kacper Lewandowski -> Kacper Woźniak (25.0kg)
+	67. Package. Aleksander Kowalski -> Michał Nowak (57.0kg)
+	68. Package. Alicja Wiśniewska -> Ala Lewandowska (17.0kg)
+	69. Letter. Filip Lewandowski -> Filip Nowak (31 symbols)
+	70. Package. Zofia Nowak -> Zuzanna Woźniak (26.0kg)
+	71. Package. Katarzyna Woźniak -> Zofia Nowak (40.0kg)
+	72. Letter. Franciszek Woźniak -> Lena Wiśniewska (31 symbols)
+	73. Letter. Alicja Lewandowska -> Hanna Lewandowska (31 symbols)
+	74. Letter. Maria Wiśniewska -> Hanna Lewandowska (31 symbols)
+	75. Letter. Jan Wiśniewski -> Filip Lewandowski (31 symbols)
+	76. Package. Maria Wiśniewska -> Zuzanna Nowak (19.0kg)
+	77. Package. Zuzanna Nowak -> Maria Wiśniewska (59.0kg)
+	78. Package. Andrzej Nowak -> Zuzanna Wiśniewska (57.0kg)
+	79. Letter. Alicja Nowak -> Jan Woźniak (31 symbols)
+	80. Package. Lena Wiśniewska -> Hanna Wiśniewska (54.0kg)
+	81. Letter. Zuzanna Lewandowska -> Michał Lewandowski (31 symbols)
+	82. Letter. Zuzanna Woźniak -> Kacper Lewandowski (31 symbols)
+	83. Letter. Maria Woźniak -> Filip Wiśniewski (31 symbols)
+	84. Package. Jan Lewandowski -> Katarzyna Nowak (26.0kg)
+	85. Package. Ala Kowalska -> Jakub Kowalski (42.0kg)
+	86. Package. Zofia Woźniak -> Aleksander Wiśniewski (11.0kg)
+	87. Letter. Filip Wiśniewski -> Andrzej Lewandowski (31 symbols)
+	88. Package. Oliwia Wiśniewska -> Lena Kowalska (55.0kg)
+	89. Letter. Michał Woźniak -> Ala Lewandowska (31 symbols)
+	90. Letter. Zuzanna Kowalska -> Oliwia Woźniak (31 symbols)
+	91. Letter. Jan Wiśniewski -> Alicja Nowak (31 symbols)
+	92. Letter. Katarzyna Woźniak -> Michał Woźniak (31 symbols)
+	93. Package. Zuzanna Lewandowska -> Aleksander Kowalski (34.0kg)
+	94. Letter. Alicja Nowak -> Alicja Woźniak (31 symbols)
+	95. Package. Lena Wiśniewska -> Oliwia Nowak (19.0kg)
+	96. Letter. Michał Kowalski -> Zofia Kowalska (31 symbols)
+	97. Letter. Jan Lewandowski -> Michał Lewandowski (31 symbols)
+	98. Letter. Ala Woźniak -> Franciszek Kowalski (31 symbols)
+	99. Package. Oliwia Kowalska -> Ala Lewandowska (44.0kg)
+	100. Letter. Jakub Kowalski -> Katarzyna Wiśniewska (31 symbols)
+
+#12 Typ: Wagon Chłodniczy | Sender: PJATK | Net weight: 8.689t | Tare weight: 42.0t | Max containers: 44 | Min temperature: -40.0
+Product Containers: 
+	1. beef (49.0kg). Temperature: min - -29.0 C°, max - 25.0 C°
+	2. fish (76.0kg). Temperature: min - -5.0 C°, max - 22.0 C°
+	3. vegetables (179.0kg). Temperature: min - -14.0 C°, max - 27.0 C°
+	4. fish (156.0kg). Temperature: min - -29.0 C°, max - 12.0 C°
+	5. fish (241.0kg). Temperature: min - -4.0 C°, max - 19.0 C°
+	6. pork (130.0kg). Temperature: min - -24.0 C°, max - 11.0 C°
+	7. pork (88.0kg). Temperature: min - -13.0 C°, max - 19.0 C°
+	8. vegetables (116.0kg). Temperature: min - -6.0 C°, max - 9.0 C°
+	9. beef (374.0kg). Temperature: min - -5.0 C°, max - 17.0 C°
+	10. beef (60.0kg). Temperature: min - -11.0 C°, max - 17.0 C°
+	11. pork (257.0kg). Temperature: min - -20.0 C°, max - 11.0 C°
+	12. pork (209.0kg). Temperature: min - -26.0 C°, max - 19.0 C°
+	13. fish (321.0kg). Temperature: min - -21.0 C°, max - 14.0 C°
+	14. vegetables (134.0kg). Temperature: min - -26.0 C°, max - 11.0 C°
+	15. beef (125.0kg). Temperature: min - -9.0 C°, max - 10.0 C°
+	16. fish (209.0kg). Temperature: min - -28.0 C°, max - 7.0 C°
+	17. fruit (102.0kg). Temperature: min - -5.0 C°, max - 27.0 C°
+	18. ice (165.0kg). Temperature: min - -11.0 C°, max - 23.0 C°
+	19. beef (304.0kg). Temperature: min - -16.0 C°, max - 30.0 C°
+	20. ice (227.0kg). Temperature: min - -22.0 C°, max - 16.0 C°
+	21. pork (118.0kg). Temperature: min - -17.0 C°, max - 5.0 C°
+	22. ice (374.0kg). Temperature: min - -29.0 C°, max - 21.0 C°
+	23. ice (286.0kg). Temperature: min - -9.0 C°, max - 9.0 C°
+	24. fruit (155.0kg). Temperature: min - -5.0 C°, max - 29.0 C°
+	25. pork (355.0kg). Temperature: min - -17.0 C°, max - 21.0 C°
+	26. beef (186.0kg). Temperature: min - -4.0 C°, max - 27.0 C°
+	27. beef (275.0kg). Temperature: min - -5.0 C°, max - 16.0 C°
+	28. fruit (384.0kg). Temperature: min - -22.0 C°, max - 27.0 C°
+	29. ice (192.0kg). Temperature: min - -4.0 C°, max - 25.0 C°
+	30. pork (195.0kg). Temperature: min - -6.0 C°, max - 27.0 C°
+	31. fruit (96.0kg). Temperature: min - -28.0 C°, max - 24.0 C°
+	32. vegetables (381.0kg). Temperature: min - -12.0 C°, max - 27.0 C°
+	33. fruit (67.0kg). Temperature: min - -11.0 C°, max - 14.0 C°
+	34. vegetables (272.0kg). Temperature: min - -5.0 C°, max - 22.0 C°
+	35. ice (57.0kg). Temperature: min - -4.0 C°, max - 27.0 C°
+	36. ice (328.0kg). Temperature: min - -28.0 C°, max - 20.0 C°
+	37. beef (136.0kg). Temperature: min - -11.0 C°, max - 12.0 C°
+	38. pork (111.0kg). Temperature: min - -19.0 C°, max - 9.0 C°
+	39. fish (333.0kg). Temperature: min - -12.0 C°, max - 29.0 C°
+	40. pork (267.0kg). Temperature: min - -29.0 C°, max - 7.0 C°
+	41. ice (71.0kg). Temperature: min - -7.0 C°, max - 30.0 C°
+	42. fruit (242.0kg). Temperature: min - -11.0 C°, max - 18.0 C°
+	43. fish (144.0kg). Temperature: min - -8.0 C°, max - 25.0 C°
+	44. ice (142.0kg). Temperature: min - -29.0 C°, max - 5.0 C°
+
+#14 Typ: Wagon Towarowy Ciężki | Sender: PJATK | Net weight: 42.0t | Tare weight: 37.0t
+Cargo:	copper ore (42.0t)
+
+#17 Typ: Wagon Na Materiały Ciekłe | Sender: PJATK | Net weight: 172.917t | Tare weight: 35.0t | Max containers: 27
+Liquid bottles: 
+	1. Liquid: oil 100% (91.0l)
+	2. Liquid: oil 100% (89.0l)
+	3. Liquid: oil 100% (118.0l)
+	4. Liquid: oil 100% (78.0l)
+	5. Liquid: mineral water 100% (99.0l)
+	6. Liquid: mineral water 100% (91.0l)
+	7. Liquid: oil 100% (90.0l)
+	8. Liquid: oil 100% (87.0l)
+	9. Liquid: mineral water 100% (95.0l)
+	10. Liquid: cryogenic liquid 100% (98.0l)
+	11. Liquid: mineral water 100% (89.0l)
+	12. Liquid: mineral water 100% (73.0l)
+	13. Liquid: mineral water 100% (82.0l)
+	14. Liquid: mineral water 100% (95.0l)
+	15. Liquid: cryogenic liquid 100% (109.0l)
+	16. Liquid: mineral water 100% (93.0l)
+	17. Liquid: cryogenic liquid 100% (106.0l)
+	18. Liquid: cryogenic liquid 100% (81.0l)
+	19. Liquid: mineral water 100% (96.0l)
+	20. Liquid: cryogenic liquid 100% (80.0l)
+	21. Liquid: cryogenic liquid 100% (99.0l)
+	22. Liquid: cryogenic liquid 100% (85.0l)
+	23. Liquid: mineral water 100% (88.0l)
+	24. Liquid: mineral water 100% (91.0l)
+	25. Liquid: oil 100% (117.0l)
+	26. Liquid: mineral water 100% (120.0l)
+	27. Liquid: cryogenic liquid 100% (118.0l)
+
+
+--------------------------------------------------------------------------------------------------------------------
+********************************************************************************************************************
+--------------------------------------------------------------------------------------------------------------------
+
+
+Locomotive: #3 Name: ICE-469  |  Max pull weight: 193.383t  |  Max train cars: 5  |  Max electric cars: 0
+
+Speed: 153.34km/h
+Home station: "Wenecja" ---> Destination station: "Düsseldorf"
+
+"Wenecja" - 0.67km - "Düsseldorf"
+Traveled between middle stations: 0.0%
+Traveled between home - destination: 0.0%
+Current segment: "Wenecja" - "Düsseldorf"
+Status: WaitingCars: 
+
+#20 Typ: Wagon Towarowy Podstawowy | Sender: PJATK | Net weight: 230.0kg | Tare weight: 20.0t | Max containers: 25
+Containers: 
+	1. buckwheat grains (13.0kg)
+	2. buckwheat grains (13.0kg)
+	3. paper (12.0kg)
+	4. wheat grains (12.0kg)
+	5. wheat grains (4.0kg)
+	6. wheat grains (13.0kg)
+	7. buckwheat grains (6.0kg)
+	8. wheat grains (3.0kg)
+	9. paper (3.0kg)
+	10. plastics (11.0kg)
+	11. buckwheat grains (14.0kg)
+	12. fertilizers (4.0kg)
+	13. wheat grains (3.0kg)
+	14. textiles (6.0kg)
+	15. fertilizers (15.0kg)
+	16. plastics (14.0kg)
+	17. buckwheat grains (10.0kg)
+	18. paper (11.0kg)
+	19. wheat grains (13.0kg)
+	20. fertilizers (8.0kg)
+	21. buckwheat grains (10.0kg)
+	22. fertilizers (11.0kg)
+	23. wheat grains (8.0kg)
+	24. car parts (6.0kg)
+	25. plastics (7.0kg)
+
+#22 Typ: Wagon Bagażowo-Pocztowy | Sender: PJATK | Net weight: 5.53t | Tare weight: 27.0t | Max mails count: 51271 | Max luggage weight: 13.0 | Price for kg: 7.78$
+Mails: 
+	1. Type: Letter.
+	Sender: Lena Kowalska -> Receiver: Zuzanna Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	2. Type: Letter.
+	Sender: Andrzej Wiśniewski -> Receiver: Michał Lewandowski.
+	*****g*a**h****r**h*******sd**?
+
+	3. Type: Letter.
+	Sender: Oliwia Kowalska -> Receiver: Hanna Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	4. Type: Package, weight: 59.0kg.
+	Sender: Jakub Woźniak -> Receiver: Maria Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	5. Type: Letter.
+	Sender: Stanisław Lewandowski -> Receiver: Franciszek Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	6. Type: Package, weight: 16.0kg.
+	Sender: Jan Lewandowski -> Receiver: Jan Kowalski.
+	*****g*a**h****r**h*******sd**?
+
+	7. Type: Letter.
+	Sender: Stanisław Lewandowski -> Receiver: Andrzej Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	8. Type: Package, weight: 15.0kg.
+	Sender: Oliwia Woźniak -> Receiver: Katarzyna Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	9. Type: Letter.
+	Sender: Jakub Wiśniewski -> Receiver: Aleksander Wiśniewski.
+	*****g*a**h****r**h*******sd**?
+
+	10. Type: Package, weight: 51.0kg.
+	Sender: Andrzej Nowak -> Receiver: Andrzej Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	11. Type: Letter.
+	Sender: Kacper Nowak -> Receiver: Zuzanna Lewandowska.
+	*****g*a**h****r**h*******sd**?
+
+	12. Type: Package, weight: 26.0kg.
+	Sender: Maria Kowalska -> Receiver: Andrzej Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	13. Type: Package, weight: 10.0kg.
+	Sender: Ala Nowak -> Receiver: Jan Lewandowski.
+	*****g*a**h****r**h*******sd**?
+
+	14. Type: Package, weight: 30.0kg.
+	Sender: Katarzyna Nowak -> Receiver: Filip Kowalski.
+	*****g*a**h****r**h*******sd**?
+
+	15. Type: Letter.
+	Sender: Stanisław Wiśniewski -> Receiver: Jan Wiśniewski.
+	*****g*a**h****r**h*******sd**?
+
+	16. Type: Package, weight: 46.0kg.
+	Sender: Kacper Lewandowski -> Receiver: Jan Wiśniewski.
+	*****g*a**h****r**h*******sd**?
+
+	17. Type: Letter.
+	Sender: Zofia Lewandowska -> Receiver: Stanisław Lewandowski.
+	*****g*a**h****r**h*******sd**?
+
+	18. Type: Letter.
+	Sender: Franciszek Nowak -> Receiver: Alicja Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	19. Type: Package, weight: 38.0kg.
+	Sender: Aleksander Kowalski -> Receiver: Zuzanna Wiśniewska.
+	*****g*a**h****r**h*******sd**?
+
+	20. Type: Package, weight: 13.0kg.
+	Sender: Katarzyna Kowalska -> Receiver: Filip Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	21. Type: Package, weight: 24.0kg.
+	Sender: Jakub Lewandowski -> Receiver: Jakub Kowalski.
+	*****g*a**h****r**h*******sd**?
+
+	22. Type: Letter.
+	Sender: Michał Nowak -> Receiver: Maria Kowalska.
+	*****g*a**h****r**h*******sd**?
+
+	23. Type: Package, weight: 43.0kg.
+	Sender: Ala Lewandowska -> Receiver: Katarzyna Wiśniewska.
+	*****g*a**h****r**h*******sd**?
+
+	24. Type: Letter.
+	Sender: Oliwia Wiśniewska -> Receiver: Franciszek Wiśniewski.
+	*****g*a**h****r**h*******sd**?
+
+	25. Type: Letter.
+	Sender: Filip Wiśniewski -> Receiver: Jan Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	26. Type: Package, weight: 34.0kg.
+	Sender: Ala Woźniak -> Receiver: Maria Kowalska.
+	*****g*a**h****r**h*******sd**?
+
+	27. Type: Package, weight: 41.0kg.
+	Sender: Stanisław Woźniak -> Receiver: Hanna Lewandowska.
+	*****g*a**h****r**h*******sd**?
+
+	28. Type: Package, weight: 36.0kg.
+	Sender: Katarzyna Kowalska -> Receiver: Hanna Wiśniewska.
+	*****g*a**h****r**h*******sd**?
+
+	29. Type: Letter.
+	Sender: Oliwia Kowalska -> Receiver: Katarzyna Lewandowska.
+	*****g*a**h****r**h*******sd**?
+
+	30. Type: Package, weight: 37.0kg.
+	Sender: Zuzanna Lewandowska -> Receiver: Zuzanna Wiśniewska.
+	*****g*a**h****r**h*******sd**?
+
+	31. Type: Letter.
+	Sender: Lena Woźniak -> Receiver: Ala Lewandowska.
+	*****g*a**h****r**h*******sd**?
+
+	32. Type: Letter.
+	Sender: Oliwia Wiśniewska -> Receiver: Michał Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	33. Type: Package, weight: 41.0kg.
+	Sender: Franciszek Wiśniewski -> Receiver: Michał Wiśniewski.
+	*****g*a**h****r**h*******sd**?
+
+	34. Type: Letter.
+	Sender: Aleksander Woźniak -> Receiver: Zofia Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	35. Type: Package, weight: 27.0kg.
+	Sender: Maria Woźniak -> Receiver: Andrzej Kowalski.
+	*****g*a**h****r**h*******sd**?
+
+	36. Type: Package, weight: 49.0kg.
+	Sender: Hanna Woźniak -> Receiver: Kacper Wiśniewski.
+	*****g*a**h****r**h*******sd**?
+
+	37. Type: Package, weight: 36.0kg.
+	Sender: Filip Kowalski -> Receiver: Oliwia Wiśniewska.
+	*****g*a**h****r**h*******sd**?
+
+	38. Type: Package, weight: 12.0kg.
+	Sender: Ala Woźniak -> Receiver: Filip Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	39. Type: Letter.
+	Sender: Stanisław Wiśniewski -> Receiver: Jakub Kowalski.
+	*****g*a**h****r**h*******sd**?
+
+	40. Type: Letter.
+	Sender: Ala Lewandowska -> Receiver: Katarzyna Kowalska.
+	*****g*a**h****r**h*******sd**?
+
+	41. Type: Package, weight: 51.0kg.
+	Sender: Kacper Lewandowski -> Receiver: Aleksander Kowalski.
+	*****g*a**h****r**h*******sd**?
+
+	42. Type: Package, weight: 27.0kg.
+	Sender: Katarzyna Lewandowska -> Receiver: Andrzej Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	43. Type: Package, weight: 59.0kg.
+	Sender: Michał Lewandowski -> Receiver: Michał Lewandowski.
+	*****g*a**h****r**h*******sd**?
+
+	44. Type: Package, weight: 46.0kg.
+	Sender: Michał Wiśniewski -> Receiver: Oliwia Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	45. Type: Package, weight: 46.0kg.
+	Sender: Ala Wiśniewska -> Receiver: Franciszek Lewandowski.
+	*****g*a**h****r**h*******sd**?
+
+	46. Type: Package, weight: 37.0kg.
+	Sender: Ala Wiśniewska -> Receiver: Alicja Lewandowska.
+	*****g*a**h****r**h*******sd**?
+
+	47. Type: Letter.
+	Sender: Lena Nowak -> Receiver: Katarzyna Lewandowska.
+	*****g*a**h****r**h*******sd**?
+
+	48. Type: Package, weight: 27.0kg.
+	Sender: Ala Nowak -> Receiver: Michał Lewandowski.
+	*****g*a**h****r**h*******sd**?
+
+	49. Type: Letter.
+	Sender: Maria Woźniak -> Receiver: Michał Wiśniewski.
+	*****g*a**h****r**h*******sd**?
+
+	50. Type: Letter.
+	Sender: Andrzej Kowalski -> Receiver: Hanna Lewandowska.
+	*****g*a**h****r**h*******sd**?
+
+	51. Type: Letter.
+	Sender: Jakub Lewandowski -> Receiver: Zofia Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	52. Type: Package, weight: 11.0kg.
+	Sender: Lena Nowak -> Receiver: Franciszek Lewandowski.
+	*****g*a**h****r**h*******sd**?
+
+	53. Type: Letter.
+	Sender: Jakub Kowalski -> Receiver: Zofia Kowalska.
+	*****g*a**h****r**h*******sd**?
+
+	54. Type: Letter.
+	Sender: Aleksander Nowak -> Receiver: Alicja Kowalska.
+	*****g*a**h****r**h*******sd**?
+
+	55. Type: Letter.
+	Sender: Kacper Kowalski -> Receiver: Stanisław Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	56. Type: Letter.
+	Sender: Andrzej Lewandowski -> Receiver: Andrzej Kowalski.
+	*****g*a**h****r**h*******sd**?
+
+	57. Type: Package, weight: 21.0kg.
+	Sender: Filip Woźniak -> Receiver: Maria Lewandowska.
+	*****g*a**h****r**h*******sd**?
+
+	58. Type: Letter.
+	Sender: Franciszek Lewandowski -> Receiver: Jan Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	59. Type: Letter.
+	Sender: Oliwia Nowak -> Receiver: Oliwia Wiśniewska.
+	*****g*a**h****r**h*******sd**?
+
+	60. Type: Package, weight: 54.0kg.
+	Sender: Zofia Kowalska -> Receiver: Katarzyna Lewandowska.
+	*****g*a**h****r**h*******sd**?
+
+	61. Type: Letter.
+	Sender: Franciszek Woźniak -> Receiver: Zuzanna Kowalska.
+	*****g*a**h****r**h*******sd**?
+
+	62. Type: Package, weight: 43.0kg.
+	Sender: Hanna Kowalska -> Receiver: Lena Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	63. Type: Package, weight: 26.0kg.
+	Sender: Jan Wiśniewski -> Receiver: Filip Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	64. Type: Letter.
+	Sender: Zofia Nowak -> Receiver: Jakub Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	65. Type: Letter.
+	Sender: Jakub Lewandowski -> Receiver: Maria Wiśniewska.
+	*****g*a**h****r**h*******sd**?
+
+	66. Type: Package, weight: 34.0kg.
+	Sender: Jakub Nowak -> Receiver: Stanisław Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	67. Type: Package, weight: 49.0kg.
+	Sender: Filip Wiśniewski -> Receiver: Lena Lewandowska.
+	*****g*a**h****r**h*******sd**?
+
+	68. Type: Letter.
+	Sender: Kacper Woźniak -> Receiver: Zuzanna Wiśniewska.
+	*****g*a**h****r**h*******sd**?
+
+	69. Type: Package, weight: 22.0kg.
+	Sender: Michał Lewandowski -> Receiver: Michał Lewandowski.
+	*****g*a**h****r**h*******sd**?
+
+	70. Type: Letter.
+	Sender: Jan Woźniak -> Receiver: Zuzanna Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	71. Type: Package, weight: 46.0kg.
+	Sender: Lena Woźniak -> Receiver: Aleksander Wiśniewski.
+	*****g*a**h****r**h*******sd**?
+
+	72. Type: Package, weight: 44.0kg.
+	Sender: Lena Kowalska -> Receiver: Zuzanna Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	73. Type: Letter.
+	Sender: Alicja Lewandowska -> Receiver: Katarzyna Kowalska.
+	*****g*a**h****r**h*******sd**?
+
+	74. Type: Package, weight: 36.0kg.
+	Sender: Ala Nowak -> Receiver: Zofia Wiśniewska.
+	*****g*a**h****r**h*******sd**?
+
+	75. Type: Letter.
+	Sender: Michał Woźniak -> Receiver: Zofia Kowalska.
+	*****g*a**h****r**h*******sd**?
+
+	76. Type: Package, weight: 45.0kg.
+	Sender: Franciszek Lewandowski -> Receiver: Hanna Lewandowska.
+	*****g*a**h****r**h*******sd**?
+
+	77. Type: Letter.
+	Sender: Jan Wiśniewski -> Receiver: Oliwia Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	78. Type: Package, weight: 20.0kg.
+	Sender: Zuzanna Woźniak -> Receiver: Oliwia Wiśniewska.
+	*****g*a**h****r**h*******sd**?
+
+	79. Type: Package, weight: 45.0kg.
+	Sender: Stanisław Wiśniewski -> Receiver: Lena Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	80. Type: Package, weight: 56.0kg.
+	Sender: Franciszek Lewandowski -> Receiver: Jan Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	81. Type: Letter.
+	Sender: Jakub Woźniak -> Receiver: Katarzyna Wiśniewska.
+	*****g*a**h****r**h*******sd**?
+
+	82. Type: Letter.
+	Sender: Franciszek Nowak -> Receiver: Hanna Kowalska.
+	*****g*a**h****r**h*******sd**?
+
+	83. Type: Letter.
+	Sender: Jakub Kowalski -> Receiver: Andrzej Kowalski.
+	*****g*a**h****r**h*******sd**?
+
+	84. Type: Package, weight: 16.0kg.
+	Sender: Katarzyna Kowalska -> Receiver: Hanna Lewandowska.
+	*****g*a**h****r**h*******sd**?
+
+	85. Type: Letter.
+	Sender: Katarzyna Kowalska -> Receiver: Kacper Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	86. Type: Package, weight: 51.0kg.
+	Sender: Andrzej Lewandowski -> Receiver: Jakub Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	87. Type: Letter.
+	Sender: Jan Nowak -> Receiver: Zuzanna Kowalska.
+	*****g*a**h****r**h*******sd**?
+
+	88. Type: Letter.
+	Sender: Michał Nowak -> Receiver: Michał Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	89. Type: Letter.
+	Sender: Katarzyna Woźniak -> Receiver: Ala Kowalska.
+	*****g*a**h****r**h*******sd**?
+
+	90. Type: Letter.
+	Sender: Hanna Nowak -> Receiver: Katarzyna Lewandowska.
+	*****g*a**h****r**h*******sd**?
+
+	91. Type: Letter.
+	Sender: Maria Kowalska -> Receiver: Filip Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	92. Type: Package, weight: 18.0kg.
+	Sender: Hanna Woźniak -> Receiver: Zuzanna Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	93. Type: Letter.
+	Sender: Hanna Lewandowska -> Receiver: Aleksander Lewandowski.
+	*****g*a**h****r**h*******sd**?
+
+	94. Type: Letter.
+	Sender: Oliwia Woźniak -> Receiver: Kacper Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	95. Type: Package, weight: 53.0kg.
+	Sender: Zofia Lewandowska -> Receiver: Oliwia Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	96. Type: Letter.
+	Sender: Alicja Wiśniewska -> Receiver: Alicja Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	97. Type: Package, weight: 15.0kg.
+	Sender: Andrzej Kowalski -> Receiver: Ala Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	98. Type: Letter.
+	Sender: Franciszek Kowalski -> Receiver: Filip Lewandowski.
+	*****g*a**h****r**h*******sd**?
+
+	99. Type: Package, weight: 17.0kg.
+	Sender: Zuzanna Woźniak -> Receiver: Oliwia Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	100. Type: Package, weight: 36.0kg.
+	Sender: Ala Wiśniewska -> Receiver: Aleksander Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+Luggage: 
+	1. Bag. Owner: Hanna Kowalska (22.0kg) 256.74$
+	2. Bag. Owner: Jakub Lewandowski (54.0kg) 630.18$
+	3. Bag. Owner: Aleksander Wiśniewski (59.0kg) 688.53$
+	4. Suitcase. Owner: Lena Wiśniewska (55.0kg) 641.85$
+	5. Bag. Owner: Filip Woźniak (31.0kg) 361.77$
+	6. Box. Owner: Oliwia Kowalska (48.0kg) 560.16$
+	7. Suitcase. Owner: Alicja Nowak (38.0kg) 443.46$
+	8. Bag. Owner: Ala Woźniak (17.0kg) 198.39$
+	9. Box. Owner: Katarzyna Wiśniewska (19.0kg) 221.73$
+	10. Box. Owner: Zuzanna Wiśniewska (30.0kg) 350.1$
+	11. Box. Owner: Maria Lewandowska (55.0kg) 641.85$
+	12. Bag. Owner: Katarzyna Lewandowska (24.0kg) 280.08$
+	13. Bag. Owner: Franciszek Lewandowski (26.0kg) 303.42$
+	14. Bag. Owner: Ala Wiśniewska (56.0kg) 653.52$
+	15. Bag. Owner: Michał Nowak (28.0kg) 326.76$
+	16. Bag. Owner: Ala Wiśniewska (37.0kg) 431.79$
+	17. Box. Owner: Alicja Lewandowska (58.0kg) 676.86$
+	18. Box. Owner: Oliwia Woźniak (34.0kg) 396.78$
+	19. Bag. Owner: Jan Wiśniewski (59.0kg) 688.53$
+	20. Suitcase. Owner: Michał Kowalski (38.0kg) 443.46$
+	21. Bag. Owner: Zofia Kowalska (20.0kg) 233.399$
+	22. Suitcase. Owner: Kacper Lewandowski (40.0kg) 466.799$
+	23. Box. Owner: Franciszek Kowalski (55.0kg) 641.85$
+	24. Box. Owner: Franciszek Woźniak (15.0kg) 175.05$
+	25. Box. Owner: Oliwia Wiśniewska (26.0kg) 303.42$
+	26. Bag. Owner: Alicja Nowak (11.0kg) 85.58$
+	27. Suitcase. Owner: Andrzej Woźniak (20.0kg) 233.399$
+	28. Box. Owner: Oliwia Kowalska (15.0kg) 175.05$
+	29. Box. Owner: Aleksander Woźniak (44.0kg) 513.48$
+	30. Suitcase. Owner: Stanisław Woźniak (56.0kg) 653.52$
+	31. Box. Owner: Aleksander Kowalski (10.0kg) 77.8$
+	32. Bag. Owner: Stanisław Kowalski (51.0kg) 595.17$
+	33. Box. Owner: Maria Kowalska (15.0kg) 175.05$
+	34. Suitcase. Owner: Stanisław Woźniak (49.0kg) 571.83$
+	35. Box. Owner: Katarzyna Nowak (41.0kg) 478.47$
+	36. Box. Owner: Lena Lewandowska (51.0kg) 595.17$
+	37. Bag. Owner: Franciszek Kowalski (54.0kg) 630.18$
+	38. Suitcase. Owner: Maria Nowak (22.0kg) 256.74$
+	39. Bag. Owner: Franciszek Wiśniewski (24.0kg) 280.08$
+	40. Suitcase. Owner: Filip Wiśniewski (17.0kg) 198.39$
+	41. Bag. Owner: Oliwia Woźniak (16.0kg) 186.72$
+	42. Bag. Owner: Kacper Kowalski (42.0kg) 490.14$
+	43. Suitcase. Owner: Katarzyna Wiśniewska (41.0kg) 478.47$
+	44. Box. Owner: Zofia Woźniak (44.0kg) 513.48$
+	45. Box. Owner: Jan Woźniak (28.0kg) 326.76$
+	46. Bag. Owner: Kacper Nowak (40.0kg) 466.799$
+	47. Bag. Owner: Franciszek Nowak (33.0kg) 385.11$
+	48. Suitcase. Owner: Filip Lewandowski (16.0kg) 186.72$
+	49. Bag. Owner: Franciszek Wiśniewski (50.0kg) 583.5$
+	50. Suitcase. Owner: Hanna Lewandowska (58.0kg) 676.86$
+	51. Suitcase. Owner: Kacper Nowak (38.0kg) 443.46$
+	52. Bag. Owner: Lena Woźniak (51.0kg) 595.17$
+	53. Suitcase. Owner: Oliwia Wiśniewska (48.0kg) 560.16$
+	54. Box. Owner: Oliwia Kowalska (40.0kg) 466.799$
+	55. Bag. Owner: Franciszek Wiśniewski (42.0kg) 490.14$
+	56. Box. Owner: Alicja Nowak (46.0kg) 536.819$
+	57. Suitcase. Owner: Kacper Nowak (53.0kg) 618.51$
+	58. Bag. Owner: Alicja Nowak (13.0kg) 101.14$
+	59. Bag. Owner: Franciszek Woźniak (32.0kg) 373.44$
+	60. Suitcase. Owner: Aleksander Kowalski (51.0kg) 595.17$
+	61. Bag. Owner: Hanna Wiśniewska (17.0kg) 198.39$
+	62. Bag. Owner: Alicja Wiśniewska (33.0kg) 385.11$
+	63. Bag. Owner: Zuzanna Kowalska (19.0kg) 221.73$
+	64. Suitcase. Owner: Kacper Nowak (43.0kg) 501.81$
+	65. Suitcase. Owner: Lena Kowalska (27.0kg) 315.09$
+	66. Suitcase. Owner: Alicja Lewandowska (53.0kg) 618.51$
+	67. Box. Owner: Stanisław Wiśniewski (41.0kg) 478.47$
+	68. Bag. Owner: Lena Nowak (29.0kg) 338.43$
+	69. Box. Owner: Kacper Nowak (56.0kg) 653.52$
+	70. Box. Owner: Katarzyna Lewandowska (50.0kg) 583.5$
+	71. Suitcase. Owner: Maria Lewandowska (42.0kg) 490.14$
+	72. Box. Owner: Oliwia Woźniak (28.0kg) 326.76$
+	73. Bag. Owner: Oliwia Wiśniewska (44.0kg) 513.48$
+	74. Bag. Owner: Alicja Lewandowska (58.0kg) 676.86$
+	75. Bag. Owner: Oliwia Wiśniewska (42.0kg) 490.14$
+	76. Box. Owner: Kacper Kowalski (51.0kg) 595.17$
+	77. Bag. Owner: Jakub Lewandowski (56.0kg) 653.52$
+	78. Suitcase. Owner: Aleksander Nowak (17.0kg) 198.39$
+	79. Suitcase. Owner: Filip Wiśniewski (45.0kg) 525.15$
+	80. Bag. Owner: Franciszek Lewandowski (55.0kg) 641.85$
+	81. Suitcase. Owner: Andrzej Wiśniewski (43.0kg) 501.81$
+	82. Bag. Owner: Ala Woźniak (50.0kg) 583.5$
+	83. Bag. Owner: Jan Lewandowski (13.0kg) 101.14$
+	84. Suitcase. Owner: Zofia Kowalska (55.0kg) 641.85$
+	85. Box. Owner: Stanisław Wiśniewski (57.0kg) 665.19$
+	86. Suitcase. Owner: Andrzej Lewandowski (42.0kg) 490.14$
+	87. Bag. Owner: Katarzyna Lewandowska (21.0kg) 245.07$
+	88. Bag. Owner: Ala Woźniak (27.0kg) 315.09$
+	89. Bag. Owner: Lena Wiśniewska (53.0kg) 618.51$
+	90. Suitcase. Owner: Ala Kowalska (58.0kg) 676.86$
+	91. Bag. Owner: Filip Woźniak (45.0kg) 525.15$
+	92. Bag. Owner: Oliwia Lewandowska (27.0kg) 315.09$
+	93. Suitcase. Owner: Stanisław Woźniak (43.0kg) 501.81$
+	94. Suitcase. Owner: Aleksander Wiśniewski (53.0kg) 618.51$
+	95. Box. Owner: Oliwia Lewandowska (58.0kg) 676.86$
+	96. Box. Owner: Jan Lewandowski (21.0kg) 245.07$
+	97. Suitcase. Owner: Aleksander Lewandowski (31.0kg) 361.77$
+	98. Suitcase. Owner: Aleksander Nowak (16.0kg) 186.72$
+	99. Bag. Owner: Alicja Wiśniewska (29.0kg) 338.43$
+	100. Box. Owner: Lena Woźniak (41.0kg) 478.47$
+
+#19 Typ: Wagon Na Ciekłe Materiały Toksyczne | Sender: PJATK | Net weight: 6.882t | Tare weight: 37.0t | Max volume: 66.0m³ | Max toxicity level: 9
+Cargo:	Liquid: fluorine 100% (93.0l), toxicity level: 2
+
+#23 Typ: Wagon Na Materiały Gazowe | Sender: PJATK | Net weight: 2.447t | Tare weight: 45.0t | Max containers: 36
+Gas bottles: 
+	1. Gas: nitrogen 100% (51.0kg)
+	2. Gas: acetylene 100% (75.0kg)
+	3. Gas: ozone 100% (50.0kg)
+	4. Gas: nitrogen 100% (50.0kg)
+	5. Gas: ozone 100% (79.0kg)
+	6. Gas: nitrogen 100% (100.0kg)
+	7. Gas: butane 100% (40.0kg)
+	8. Gas: acetylene 100% (73.0kg)
+	9. Gas: propane 100% (52.0kg)
+	10. Gas: ozone 100% (71.0kg)
+	11. Gas: krypton 100% (53.0kg)
+	12. Gas: acetylene 100% (100.0kg)
+	13. Gas: acetylene 100% (48.0kg)
+	14. Gas: acetylene 100% (99.0kg)
+	15. Gas: butane 100% (78.0kg)
+	16. Gas: nitrogen 100% (90.0kg)
+	17. Gas: propane 100% (70.0kg)
+	18. Gas: nitrogen 100% (40.0kg)
+	19. Gas: krypton 100% (45.0kg)
+	20. Gas: butane 100% (51.0kg)
+	21. Gas: propane 100% (64.0kg)
+	22. Gas: krypton 100% (51.0kg)
+	23. Gas: nitrogen 100% (56.0kg)
+	24. Gas: krypton 100% (48.0kg)
+	25. Gas: ethylene 100% (66.0kg)
+	26. Gas: ethylene 100% (75.0kg)
+	27. Gas: nitrogen 100% (77.0kg)
+	28. Gas: krypton 100% (82.0kg)
+	29. Gas: acetylene 100% (68.0kg)
+	30. Gas: butane 100% (75.0kg)
+	31. Gas: acetylene 100% (78.0kg)
+	32. Gas: krypton 100% (59.0kg)
+	33. Gas: butane 100% (87.0kg)
+	34. Gas: ethylene 100% (69.0kg)
+	35. Gas: krypton 100% (92.0kg)
+	36. Gas: krypton 100% (85.0kg)
+
+#21 Typ: Wagon Bagażowo-Pocztowy | Sender: PJATK | Net weight: 5.293t | Tare weight: 44.0t | Max mails count: 78262 | Max luggage weight: 30.0 | Price for kg: 15.16$
+Mails: 
+	1. Type: Package, weight: 43.0kg.
+	Sender: Katarzyna Kowalska -> Receiver: Zuzanna Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	2. Type: Letter.
+	Sender: Maria Kowalska -> Receiver: Lena Kowalska.
+	*****g*a**h****r**h*******sd**?
+
+	3. Type: Letter.
+	Sender: Jan Lewandowski -> Receiver: Stanisław Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	4. Type: Package, weight: 49.0kg.
+	Sender: Zofia Lewandowska -> Receiver: Lena Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	5. Type: Letter.
+	Sender: Jakub Wiśniewski -> Receiver: Andrzej Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	6. Type: Letter.
+	Sender: Jakub Lewandowski -> Receiver: Katarzyna Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	7. Type: Letter.
+	Sender: Jakub Woźniak -> Receiver: Zofia Lewandowska.
+	*****g*a**h****r**h*******sd**?
+
+	8. Type: Letter.
+	Sender: Jan Wiśniewski -> Receiver: Hanna Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	9. Type: Package, weight: 33.0kg.
+	Sender: Zuzanna Wiśniewska -> Receiver: Stanisław Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	10. Type: Package, weight: 12.0kg.
+	Sender: Oliwia Lewandowska -> Receiver: Oliwia Kowalska.
+	*****g*a**h****r**h*******sd**?
+
+	11. Type: Letter.
+	Sender: Kacper Lewandowski -> Receiver: Andrzej Wiśniewski.
+	*****g*a**h****r**h*******sd**?
+
+	12. Type: Letter.
+	Sender: Jakub Kowalski -> Receiver: Maria Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	13. Type: Package, weight: 45.0kg.
+	Sender: Zuzanna Lewandowska -> Receiver: Maria Wiśniewska.
+	*****g*a**h****r**h*******sd**?
+
+	14. Type: Package, weight: 16.0kg.
+	Sender: Ala Nowak -> Receiver: Oliwia Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	15. Type: Package, weight: 42.0kg.
+	Sender: Filip Wiśniewski -> Receiver: Alicja Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	16. Type: Letter.
+	Sender: Andrzej Kowalski -> Receiver: Maria Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	17. Type: Letter.
+	Sender: Franciszek Nowak -> Receiver: Hanna Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	18. Type: Letter.
+	Sender: Ala Woźniak -> Receiver: Alicja Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	19. Type: Package, weight: 34.0kg.
+	Sender: Zofia Lewandowska -> Receiver: Ala Wiśniewska.
+	*****g*a**h****r**h*******sd**?
+
+	20. Type: Package, weight: 37.0kg.
+	Sender: Jan Kowalski -> Receiver: Oliwia Lewandowska.
+	*****g*a**h****r**h*******sd**?
+
+	21. Type: Package, weight: 31.0kg.
+	Sender: Jakub Wiśniewski -> Receiver: Aleksander Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	22. Type: Letter.
+	Sender: Kacper Woźniak -> Receiver: Michał Kowalski.
+	*****g*a**h****r**h*******sd**?
+
+	23. Type: Package, weight: 18.0kg.
+	Sender: Lena Lewandowska -> Receiver: Lena Kowalska.
+	*****g*a**h****r**h*******sd**?
+
+	24. Type: Package, weight: 59.0kg.
+	Sender: Zuzanna Lewandowska -> Receiver: Jakub Wiśniewski.
+	*****g*a**h****r**h*******sd**?
+
+	25. Type: Letter.
+	Sender: Maria Wiśniewska -> Receiver: Filip Kowalski.
+	*****g*a**h****r**h*******sd**?
+
+	26. Type: Letter.
+	Sender: Stanisław Woźniak -> Receiver: Michał Lewandowski.
+	*****g*a**h****r**h*******sd**?
+
+	27. Type: Letter.
+	Sender: Hanna Kowalska -> Receiver: Aleksander Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	28. Type: Letter.
+	Sender: Oliwia Kowalska -> Receiver: Zuzanna Kowalska.
+	*****g*a**h****r**h*******sd**?
+
+	29. Type: Package, weight: 51.0kg.
+	Sender: Michał Wiśniewski -> Receiver: Lena Kowalska.
+	*****g*a**h****r**h*******sd**?
+
+	30. Type: Package, weight: 54.0kg.
+	Sender: Franciszek Wiśniewski -> Receiver: Michał Kowalski.
+	*****g*a**h****r**h*******sd**?
+
+	31. Type: Letter.
+	Sender: Jakub Woźniak -> Receiver: Katarzyna Kowalska.
+	*****g*a**h****r**h*******sd**?
+
+	32. Type: Letter.
+	Sender: Alicja Nowak -> Receiver: Katarzyna Wiśniewska.
+	*****g*a**h****r**h*******sd**?
+
+	33. Type: Letter.
+	Sender: Filip Woźniak -> Receiver: Katarzyna Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	34. Type: Letter.
+	Sender: Jakub Lewandowski -> Receiver: Aleksander Lewandowski.
+	*****g*a**h****r**h*******sd**?
+
+	35. Type: Letter.
+	Sender: Oliwia Nowak -> Receiver: Franciszek Lewandowski.
+	*****g*a**h****r**h*******sd**?
+
+	36. Type: Letter.
+	Sender: Ala Nowak -> Receiver: Zuzanna Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	37. Type: Package, weight: 18.0kg.
+	Sender: Franciszek Wiśniewski -> Receiver: Lena Wiśniewska.
+	*****g*a**h****r**h*******sd**?
+
+	38. Type: Package, weight: 50.0kg.
+	Sender: Katarzyna Kowalska -> Receiver: Michał Kowalski.
+	*****g*a**h****r**h*******sd**?
+
+	39. Type: Package, weight: 39.0kg.
+	Sender: Katarzyna Kowalska -> Receiver: Oliwia Kowalska.
+	*****g*a**h****r**h*******sd**?
+
+	40. Type: Letter.
+	Sender: Lena Nowak -> Receiver: Maria Lewandowska.
+	*****g*a**h****r**h*******sd**?
+
+	41. Type: Package, weight: 21.0kg.
+	Sender: Oliwia Lewandowska -> Receiver: Michał Wiśniewski.
+	*****g*a**h****r**h*******sd**?
+
+	42. Type: Package, weight: 30.0kg.
+	Sender: Zuzanna Wiśniewska -> Receiver: Ala Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	43. Type: Package, weight: 49.0kg.
+	Sender: Zofia Woźniak -> Receiver: Oliwia Kowalska.
+	*****g*a**h****r**h*******sd**?
+
+	44. Type: Package, weight: 56.0kg.
+	Sender: Andrzej Wiśniewski -> Receiver: Franciszek Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	45. Type: Letter.
+	Sender: Maria Nowak -> Receiver: Andrzej Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	46. Type: Package, weight: 32.0kg.
+	Sender: Ala Woźniak -> Receiver: Ala Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	47. Type: Package, weight: 12.0kg.
+	Sender: Franciszek Lewandowski -> Receiver: Alicja Kowalska.
+	*****g*a**h****r**h*******sd**?
+
+	48. Type: Letter.
+	Sender: Franciszek Lewandowski -> Receiver: Oliwia Kowalska.
+	*****g*a**h****r**h*******sd**?
+
+	49. Type: Package, weight: 22.0kg.
+	Sender: Katarzyna Nowak -> Receiver: Alicja Lewandowska.
+	*****g*a**h****r**h*******sd**?
+
+	50. Type: Letter.
+	Sender: Filip Kowalski -> Receiver: Katarzyna Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	51. Type: Letter.
+	Sender: Jan Kowalski -> Receiver: Aleksander Wiśniewski.
+	*****g*a**h****r**h*******sd**?
+
+	52. Type: Letter.
+	Sender: Stanisław Woźniak -> Receiver: Andrzej Lewandowski.
+	*****g*a**h****r**h*******sd**?
+
+	53. Type: Letter.
+	Sender: Michał Woźniak -> Receiver: Hanna Wiśniewska.
+	*****g*a**h****r**h*******sd**?
+
+	54. Type: Letter.
+	Sender: Filip Lewandowski -> Receiver: Maria Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	55. Type: Package, weight: 25.0kg.
+	Sender: Franciszek Nowak -> Receiver: Lena Lewandowska.
+	*****g*a**h****r**h*******sd**?
+
+	56. Type: Letter.
+	Sender: Hanna Nowak -> Receiver: Michał Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	57. Type: Letter.
+	Sender: Hanna Kowalska -> Receiver: Filip Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	58. Type: Letter.
+	Sender: Zofia Wiśniewska -> Receiver: Franciszek Wiśniewski.
+	*****g*a**h****r**h*******sd**?
+
+	59. Type: Letter.
+	Sender: Andrzej Kowalski -> Receiver: Aleksander Wiśniewski.
+	*****g*a**h****r**h*******sd**?
+
+	60. Type: Letter.
+	Sender: Hanna Kowalska -> Receiver: Alicja Wiśniewska.
+	*****g*a**h****r**h*******sd**?
+
+	61. Type: Package, weight: 43.0kg.
+	Sender: Hanna Woźniak -> Receiver: Zofia Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	62. Type: Letter.
+	Sender: Alicja Woźniak -> Receiver: Katarzyna Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	63. Type: Letter.
+	Sender: Lena Lewandowska -> Receiver: Hanna Lewandowska.
+	*****g*a**h****r**h*******sd**?
+
+	64. Type: Package, weight: 48.0kg.
+	Sender: Aleksander Wiśniewski -> Receiver: Filip Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	65. Type: Letter.
+	Sender: Franciszek Lewandowski -> Receiver: Oliwia Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	66. Type: Package, weight: 26.0kg.
+	Sender: Alicja Kowalska -> Receiver: Jakub Wiśniewski.
+	*****g*a**h****r**h*******sd**?
+
+	67. Type: Package, weight: 30.0kg.
+	Sender: Alicja Lewandowska -> Receiver: Andrzej Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	68. Type: Letter.
+	Sender: Hanna Wiśniewska -> Receiver: Michał Lewandowski.
+	*****g*a**h****r**h*******sd**?
+
+	69. Type: Letter.
+	Sender: Kacper Kowalski -> Receiver: Andrzej Wiśniewski.
+	*****g*a**h****r**h*******sd**?
+
+	70. Type: Letter.
+	Sender: Franciszek Lewandowski -> Receiver: Zofia Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	71. Type: Letter.
+	Sender: Hanna Woźniak -> Receiver: Oliwia Wiśniewska.
+	*****g*a**h****r**h*******sd**?
+
+	72. Type: Letter.
+	Sender: Jakub Lewandowski -> Receiver: Ala Kowalska.
+	*****g*a**h****r**h*******sd**?
+
+	73. Type: Letter.
+	Sender: Ala Kowalska -> Receiver: Jakub Wiśniewski.
+	*****g*a**h****r**h*******sd**?
+
+	74. Type: Package, weight: 19.0kg.
+	Sender: Zuzanna Wiśniewska -> Receiver: Zuzanna Lewandowska.
+	*****g*a**h****r**h*******sd**?
+
+	75. Type: Letter.
+	Sender: Hanna Kowalska -> Receiver: Lena Lewandowska.
+	*****g*a**h****r**h*******sd**?
+
+	76. Type: Package, weight: 57.0kg.
+	Sender: Jan Nowak -> Receiver: Ala Kowalska.
+	*****g*a**h****r**h*******sd**?
+
+	77. Type: Package, weight: 16.0kg.
+	Sender: Katarzyna Wiśniewska -> Receiver: Alicja Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	78. Type: Letter.
+	Sender: Lena Woźniak -> Receiver: Lena Kowalska.
+	*****g*a**h****r**h*******sd**?
+
+	79. Type: Letter.
+	Sender: Aleksander Lewandowski -> Receiver: Oliwia Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	80. Type: Package, weight: 53.0kg.
+	Sender: Maria Lewandowska -> Receiver: Jakub Kowalski.
+	*****g*a**h****r**h*******sd**?
+
+	81. Type: Package, weight: 56.0kg.
+	Sender: Stanisław Wiśniewski -> Receiver: Zofia Wiśniewska.
+	*****g*a**h****r**h*******sd**?
+
+	82. Type: Package, weight: 14.0kg.
+	Sender: Zuzanna Lewandowska -> Receiver: Zofia Wiśniewska.
+	*****g*a**h****r**h*******sd**?
+
+	83. Type: Package, weight: 28.0kg.
+	Sender: Katarzyna Kowalska -> Receiver: Oliwia Lewandowska.
+	*****g*a**h****r**h*******sd**?
+
+	84. Type: Letter.
+	Sender: Jakub Nowak -> Receiver: Lena Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	85. Type: Letter.
+	Sender: Oliwia Nowak -> Receiver: Maria Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	86. Type: Package, weight: 36.0kg.
+	Sender: Filip Lewandowski -> Receiver: Lena Kowalska.
+	*****g*a**h****r**h*******sd**?
+
+	87. Type: Letter.
+	Sender: Kacper Wiśniewski -> Receiver: Maria Wiśniewska.
+	*****g*a**h****r**h*******sd**?
+
+	88. Type: Letter.
+	Sender: Kacper Nowak -> Receiver: Katarzyna Kowalska.
+	*****g*a**h****r**h*******sd**?
+
+	89. Type: Package, weight: 31.0kg.
+	Sender: Aleksander Lewandowski -> Receiver: Zuzanna Wiśniewska.
+	*****g*a**h****r**h*******sd**?
+
+	90. Type: Letter.
+	Sender: Oliwia Lewandowska -> Receiver: Jan Kowalski.
+	*****g*a**h****r**h*******sd**?
+
+	91. Type: Letter.
+	Sender: Andrzej Wiśniewski -> Receiver: Jan Kowalski.
+	*****g*a**h****r**h*******sd**?
+
+	92. Type: Package, weight: 44.0kg.
+	Sender: Jakub Lewandowski -> Receiver: Jakub Lewandowski.
+	*****g*a**h****r**h*******sd**?
+
+	93. Type: Letter.
+	Sender: Katarzyna Wiśniewska -> Receiver: Jan Wiśniewski.
+	*****g*a**h****r**h*******sd**?
+
+	94. Type: Letter.
+	Sender: Filip Lewandowski -> Receiver: Jakub Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	95. Type: Package, weight: 31.0kg.
+	Sender: Franciszek Kowalski -> Receiver: Lena Lewandowska.
+	*****g*a**h****r**h*******sd**?
+
+	96. Type: Package, weight: 15.0kg.
+	Sender: Jan Wiśniewski -> Receiver: Lena Woźniak.
+	*****g*a**h****r**h*******sd**?
+
+	97. Type: Package, weight: 24.0kg.
+	Sender: Ala Wiśniewska -> Receiver: Andrzej Lewandowski.
+	*****g*a**h****r**h*******sd**?
+
+	98. Type: Letter.
+	Sender: Stanisław Lewandowski -> Receiver: Maria Lewandowska.
+	*****g*a**h****r**h*******sd**?
+
+	99. Type: Package, weight: 49.0kg.
+	Sender: Lena Lewandowska -> Receiver: Jakub Nowak.
+	*****g*a**h****r**h*******sd**?
+
+	100. Type: Package, weight: 41.0kg.
+	Sender: Zofia Woźniak -> Receiver: Andrzej Kowalski.
+	*****g*a**h****r**h*******sd**?
+
+Luggage: 
+	1. Bag. Owner: Jakub Kowalski (60.0kg) 1364.4$
+	2. Suitcase. Owner: Stanisław Kowalski (48.0kg) 1091.52$
+	3. Bag. Owner: Aleksander Kowalski (44.0kg) 1000.56$
+	4. Suitcase. Owner: Kacper Lewandowski (41.0kg) 932.34$
+	5. Bag. Owner: Ala Wiśniewska (53.0kg) 1205.22$
+	6. Bag. Owner: Ala Wiśniewska (18.0kg) 272.88$
+	7. Bag. Owner: Filip Kowalski (20.0kg) 303.2$
+	8. Bag. Owner: Franciszek Nowak (26.0kg) 394.16$
+	9. Suitcase. Owner: Ala Nowak (59.0kg) 1341.66$
+	10. Bag. Owner: Maria Wiśniewska (22.0kg) 333.52$
+	11. Bag. Owner: Alicja Nowak (33.0kg) 750.42$
+	12. Bag. Owner: Jan Wiśniewski (24.0kg) 363.84$
+	13. Bag. Owner: Katarzyna Nowak (16.0kg) 242.56$
+	14. Suitcase. Owner: Alicja Nowak (31.0kg) 704.939$
+	15. Bag. Owner: Stanisław Kowalski (54.0kg) 1227.96$
+	16. Suitcase. Owner: Hanna Lewandowska (53.0kg) 1205.22$
+	17. Bag. Owner: Andrzej Nowak (19.0kg) 288.04$
+	18. Bag. Owner: Zuzanna Kowalska (44.0kg) 1000.56$
+	19. Bag. Owner: Maria Nowak (59.0kg) 1341.66$
+	20. Box. Owner: Lena Lewandowska (36.0kg) 818.64$
+	21. Suitcase. Owner: Stanisław Wiśniewski (35.0kg) 795.9$
+	22. Bag. Owner: Oliwia Kowalska (59.0kg) 1341.66$
+	23. Bag. Owner: Stanisław Nowak (35.0kg) 795.9$
+	24. Bag. Owner: Jan Kowalski (56.0kg) 1273.44$
+	25. Box. Owner: Hanna Lewandowska (56.0kg) 1273.44$
+	26. Suitcase. Owner: Jakub Kowalski (33.0kg) 750.42$
+	27. Suitcase. Owner: Maria Wiśniewska (38.0kg) 864.12$
+	28. Suitcase. Owner: Ala Kowalska (12.0kg) 181.92$
+	29. Box. Owner: Jan Lewandowski (13.0kg) 197.08$
+	30. Bag. Owner: Oliwia Nowak (46.0kg) 1046.04$
+	31. Bag. Owner: Ala Woźniak (41.0kg) 932.34$
+	32. Bag. Owner: Michał Wiśniewski (55.0kg) 1250.699$
+	33. Bag. Owner: Zofia Lewandowska (34.0kg) 773.16$
+	34. Box. Owner: Filip Nowak (33.0kg) 750.42$
+	35. Bag. Owner: Kacper Lewandowski (51.0kg) 1159.74$
+	36. Bag. Owner: Alicja Woźniak (45.0kg) 1023.3$
+	37. Suitcase. Owner: Hanna Wiśniewska (58.0kg) 1318.92$
+	38. Bag. Owner: Stanisław Lewandowski (54.0kg) 1227.96$
+	39. Bag. Owner: Oliwia Woźniak (10.0kg) 151.6$
+	40. Box. Owner: Alicja Woźniak (20.0kg) 303.2$
+	41. Bag. Owner: Andrzej Kowalski (51.0kg) 1159.74$
+	42. Box. Owner: Hanna Woźniak (39.0kg) 886.86$
+	43. Box. Owner: Alicja Kowalska (29.0kg) 439.64$
+	44. Bag. Owner: Ala Woźniak (10.0kg) 151.6$
+	45. Suitcase. Owner: Oliwia Kowalska (16.0kg) 242.56$
+	46. Box. Owner: Stanisław Nowak (41.0kg) 932.34$
+	47. Bag. Owner: Katarzyna Lewandowska (42.0kg) 955.08$
+	48. Suitcase. Owner: Zuzanna Kowalska (40.0kg) 909.599$
+	49. Bag. Owner: Alicja Woźniak (32.0kg) 727.68$
+	50. Bag. Owner: Aleksander Kowalski (39.0kg) 886.86$
+	51. Suitcase. Owner: Lena Nowak (60.0kg) 1364.4$
+	52. Box. Owner: Alicja Wiśniewska (31.0kg) 704.939$
+	53. Bag. Owner: Michał Lewandowski (59.0kg) 1341.66$
+	54. Box. Owner: Zofia Kowalska (10.0kg) 151.6$
+	55. Bag. Owner: Hanna Woźniak (26.0kg) 394.16$
+	56. Box. Owner: Lena Lewandowska (26.0kg) 394.16$
+	57. Box. Owner: Jakub Nowak (27.0kg) 409.32$
+	58. Bag. Owner: Katarzyna Lewandowska (44.0kg) 1000.56$
+	59. Bag. Owner: Filip Wiśniewski (46.0kg) 1046.04$
+	60. Suitcase. Owner: Michał Kowalski (42.0kg) 955.08$
+	61. Suitcase. Owner: Filip Nowak (25.0kg) 379.0$
+	62. Box. Owner: Zuzanna Wiśniewska (22.0kg) 333.52$
+	63. Bag. Owner: Ala Kowalska (47.0kg) 1068.78$
+	64. Bag. Owner: Zofia Nowak (22.0kg) 333.52$
+	65. Box. Owner: Filip Lewandowski (59.0kg) 1341.66$
+	66. Bag. Owner: Stanisław Lewandowski (42.0kg) 955.08$
+	67. Bag. Owner: Katarzyna Wiśniewska (59.0kg) 1341.66$
+	68. Bag. Owner: Aleksander Woźniak (15.0kg) 227.4$
+	69. Bag. Owner: Ala Wiśniewska (37.0kg) 841.379$
+	70. Suitcase. Owner: Franciszek Wiśniewski (34.0kg) 773.16$
+	71. Bag. Owner: Ala Woźniak (53.0kg) 1205.22$
+	72. Bag. Owner: Kacper Nowak (39.0kg) 886.86$
+	73. Suitcase. Owner: Katarzyna Nowak (49.0kg) 1114.26$
+	74. Box. Owner: Zuzanna Lewandowska (29.0kg) 439.64$
+	75. Suitcase. Owner: Aleksander Kowalski (45.0kg) 1023.3$
+	76. Suitcase. Owner: Kacper Woźniak (20.0kg) 303.2$
+	77. Suitcase. Owner: Katarzyna Nowak (53.0kg) 1205.22$
+	78. Box. Owner: Andrzej Wiśniewski (29.0kg) 439.64$
+	79. Box. Owner: Alicja Woźniak (24.0kg) 363.84$
+	80. Bag. Owner: Jakub Kowalski (49.0kg) 1114.26$
+	81. Bag. Owner: Michał Lewandowski (34.0kg) 773.16$
+	82. Box. Owner: Maria Woźniak (28.0kg) 424.48$
+	83. Suitcase. Owner: Franciszek Lewandowski (55.0kg) 1250.699$
+	84. Box. Owner: Ala Woźniak (26.0kg) 394.16$
+	85. Bag. Owner: Katarzyna Kowalska (57.0kg) 1296.18$
+	86. Suitcase. Owner: Zofia Kowalska (33.0kg) 750.42$
+	87. Bag. Owner: Lena Woźniak (51.0kg) 1159.74$
+	88. Box. Owner: Katarzyna Lewandowska (33.0kg) 750.42$
+	89. Box. Owner: Oliwia Woźniak (56.0kg) 1273.44$
+	90. Suitcase. Owner: Alicja Nowak (24.0kg) 363.84$
+	91. Suitcase. Owner: Zofia Nowak (39.0kg) 886.86$
+	92. Suitcase. Owner: Alicja Woźniak (26.0kg) 394.16$
+	93. Bag. Owner: Andrzej Kowalski (10.0kg) 151.6$
+	94. Bag. Owner: Filip Kowalski (20.0kg) 303.2$
+	95. Box. Owner: Franciszek Kowalski (58.0kg) 1318.92$
+	96. Bag. Owner: Lena Kowalska (47.0kg) 1068.78$
+	97. Bag. Owner: Stanisław Kowalski (54.0kg) 1227.96$
+	98. Box. Owner: Stanisław Nowak (44.0kg) 1000.56$
+	99. Bag. Owner: Katarzyna Lewandowska (30.0kg) 454.8$
+	100. Bag. Owner: Maria Kowalska (23.0kg) 348.68$
+
+
+--------------------------------------------------------------------------------------------------------------------
+********************************************************************************************************************
+--------------------------------------------------------------------------------------------------------------------
+
+
